@@ -1,0 +1,14 @@
+input: .
+output: public
+url: https://dripedia.wiki/
+branding:
+  title: DRIPedia
+  label: wiki
+  logo: static/logo.svg
+  logoDark: static/logo_2.svg
+
+favicon: static/droplet.png
+
+integrations:
+  googleAnalytics:
+    id: G-294V92WZPN

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dripedia.wiki/sitemap.xml.gz
