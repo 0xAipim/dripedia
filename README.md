@@ -1,8 +1,9 @@
 ---
 label: Home
 icon: globe
-description: Documentation/wiki page for the DRIP Netowrk.
+description: DRIPedia is a documentation/wiki page for the DRIP Network explaining the inner workings of the Faucet, Reservoir, and Fountain. Learn more about the project's Roadmap, Team, and available Resources.
 ---
+
 
 # DRIPedia
 
@@ -12,3 +13,4 @@ description: Documentation/wiki page for the DRIP Netowrk.
 
 [!ref Português](pt/intro.md)
 
+[!ref Deutsch](de/intro.md)

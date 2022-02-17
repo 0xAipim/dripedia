@@ -2,6 +2,7 @@
 label: Auditoria
 order: -8
 icon: codescan-checkmark
+description: Informações sobre as auditorias de segurança completadas para a DRIP Network.
 ---
 
 # Auditoria de Segurança

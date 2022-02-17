@@ -2,6 +2,7 @@
 label: Perguntas frequentes
 order: -9
 icon: question
+description: Respostas para algumas das perguntas mais frequentes sobre a DRIP Network, como por exemplo Quais são os riscos envolvidos em participar da DRIP Network?, DRIP Network é um esquema de pirâmide?, DRIP Network é um esquema de pirâmide?
 ---
 
 # Perguntas frequentes

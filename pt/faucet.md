@@ -2,6 +2,7 @@
 label: Faucet (Torneira)
 order: -2
 icon: verified
+description: DRIP Faucet é um contrato de baixo risco e alto rendimento que funciona de forma similar a um certificado de depósito. Saiba mais sobre como ele funciona, incluindo o sistema de indicações, e o imposto para baleias.
 ---
 
 # Faucet (Torneira)
@@ -21,17 +22,17 @@ Os rendimentos diários de 1% tem como fonte a reserva de fundos da Faucet, que 
 Deposita tokens DRIP da sua carteira no contrato da Faucet. Há um valor mínimo de depósito de 1 DRIP. Adicionalmente, há um imposto de 10% para depositar DRIP na Faucet.
 
 **Hidratar:**
-Redeposita suas recompensas disponíveis na Faucet de volta na Faucet. Há um imposto de 5% para hidratar recompensas da Faucet. A hidratação permite que os participantes aumentem seus ganhos diários, por aumentar o total de seus depósitos na Faucet. Hidratação frequente gera recompensas diárias exponenciais.
+Redeposita seus rendimentos disponíveis na Faucet de volta na Faucet. Há um imposto de 5% para hidratar rendimentos da Faucet. A hidratação permite que os participantes aumentem seus ganhos diários, por aumentar o total depósitos na Faucet. Hidratação frequente gera rendimentos diários exponenciais.
 
 **Sacar:**
-Realiza o saque das suas recompensas disponíveis na DRIP Faucet para a sua carteira. Há um imposto de 10% para sacar recompensas da DRIP Faucet.
+Realiza o saque dos seus rendimentos disponíveis na DRIP Faucet para a sua carteira. Há um imposto de 10% para sacar rendimentos da DRIP Faucet.
 
 **Airdrops:**
 Realiza o envio de tokens DRIP da sua carteira diretamente ao saldo de depósitos na Faucet de um outro participante. Há um imposto de 10% para realizar airdrops.
-Enviar airdrops pode te ajudar a garantir que sua conta tenha um status positivo de depósito líquido (mais depósitos do que saques no projeto), além de ser uma ótima ferramenta para retribuir aos membros da sua equipe e atrair novos membros.
+Enviar airdrops pode lhe ajudar a garantir que sua conta tenha um status positivo de depósito líquido (mais depósitos do que saques no projeto), além de ser uma ótima ferramenta para retribuir aos membros da sua equipe e atrair novos membros.
 
 
-| Transação | Taxa |
+| Transação | Imposto |
 |:---:|:---:|
 | Depósito na Faucet | 10% |
 | Saque da Faucet | 10% |
@@ -52,7 +53,7 @@ O valor da recompensa por indicação é de 10% do valor depositado (após os im
 
 Requisitos para receber recompensas por indicação de pessoas em níveis abaixo ao seu:
 - Ter a quantia do token BR34P necessária em sua carteira (veja a tabela abaixo)
-- Ter um status de depósito líquido positivo: (Depósitos na Faucet + Hidratações na Faucet + Airdrops enviados) > (Saques da Faucet)
+- Ter um status de depósito líquido positivo: (Depósitos na Faucet + Hidratações da Faucet + Airdrops enviados) > (Saques da Faucet)
 
 
 | Número de níveis alcançáveis | Quantia de BR34P necessária |
@@ -74,7 +75,7 @@ Requisitos para receber recompensas por indicação de pessoas em níveis abaixo
 | 15 | 1597 |
 
 
-Se essas condições não forem atendidas, a pessoa 1 nível acima terá sua elegibilidade verificada, sucessivamente até que um participante elegível seja encontrado para receber as recompensas.
+Se essas condições não forem atendidas, a pessoa 1 nível acima terá sua elegibilidade verificada, sucessivamente até que um participante elegível possa ser selecionado para receber as recompensas.
 
 Se a equipe do participante selecionado para receber as recompensas tiver menos de 5 membros diretos, este participante selecionado receberá 100% da recompensa.
 Se a equipe do participante selecionado para receber as recompensas tiver mais de 5 membros diretos, este participante selecionado receberá 75% da recompensa, e a pessoa que estiver depositando/hidratando receberá 25% da recompensa.
@@ -84,13 +85,15 @@ Se a equipe do participante selecionado para receber as recompensas tiver mais d
 | < 5 | 100% | 0% |
 | ≥ 5 | 75% | 25% |
 
-Os tokens que vão para a [carteira do desenvolvedor](https://bscscan.com/address/0xe8e9720e39e13854657c165cf4eb10b2dfe33570) serão usados como ferramenta promocional para ajudar no crescimento da plataforma. Por exemplo: patrocinar competições entre equipes, ser queimado, etc. Esses tokens não serão despejados no mercado.
+!!!primary
+Os tokens de recompensa por indicação recebidos pela [carteira do desenvolvedor](https://bscscan.com/address/0xe8e9720e39e13854657c165cf4eb10b2dfe33570) serão usados como ferramenta promocional para ajudar no crescimento da plataforma. Por exemplo: patrocinar competições entre equipes, ser queimado, etc. Esses tokens não serão despejados no mercado.
+!!!
 
 Para explicar melhor como funciona o sistema de indicação, vejamos um exemplo ilustrado pela imagem abaixo:
 
-![Ilustração da seguinte árvore de indicações: Dev wallet (5 membros diretos, 1600 BR34P) -> Alicia (3 membros diretos, 10 BR34P) -> Bruno (1 membro direto, 0 BR34P) -> Chang (3 membro direto, 2 BR34P) -> Diana ( 0 membros diretos, 0 BR34P).](/static/banner_faucet_referral.jpg)
+![Ilustração da seguinte árvore de indicações: Carteira do desenvolvedor (5 membros diretos, 1600 BR34P) → Alicia (2 membros diretos, 10 BR34P) → Bruno (1 membro direto, 0 BR34P) → Chang (3 membros diretos, 2 BR34P) → Diana (0 membros diretos, 0 BR34P).](/static/banner_faucet_referral.jpg)
 
-Sempre que Diana (mais à direita da imagem) depositar ou hidratar, uma carteira em um nível acima dela receberá uma recompensa (uma porcentagem do valor depositado ou hidratado).
+Sempre que Diana (mais à direita da imagem) depositar ou hidratar, uma carteira acima dela (de nível maior) receberá uma recompensa (uma porcentagem do valor depositado ou hidratado).
 
 Na 1ª vez que Diana fizer um depósito, a recompensa irá para a pessoa **1 nível** acima dela (se a conta for elegível), neste caso o Chang. Chang receberá as recompensas porque ele possui tokens BR34P suficientes em sua carteira para alcançar 1 nível abaixo dele e tem um status positivo de depósito líquido .
 
@@ -106,7 +109,7 @@ Como não há nenhuma conta acima da carteira do desenvolvedor, o nível de reco
 
 Para garantir a sustentabilidade do projeto, um imposto adicional sobre saques da Faucet é aplicado aos participantes de acordo com a soma de seus **saques totais + recompensas de Faucet disponíveis** em relação à quantidade total de tokens DRIP.
 
-| % da oferta total de tokens DRIP | Taxa |
+| % da oferta total de tokens DRIP | Imposto |
 |:---:|:---:|
 | < 0.99% | 0% |
 | ≥ 1% | 5% |
