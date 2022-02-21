@@ -109,7 +109,7 @@ Como não há nenhuma conta acima da carteira do desenvolvedor, o nível de reco
 
 Para garantir a sustentabilidade do projeto, um imposto adicional sobre saques da Faucet é aplicado aos participantes de acordo com a soma de seus **saques totais + recompensas de Faucet disponíveis** em relação à quantidade total de tokens DRIP.
 
-| % da oferta total de tokens DRIP | Imposto |
+| % da quantidade total de tokens DRIP | Imposto |
 |:---:|:---:|
 | < 0.99% | 0% |
 | ≥ 1% | 5% |

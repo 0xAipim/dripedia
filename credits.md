@@ -24,8 +24,8 @@ Want to send me some DRIP? 0xE07aaFF52FB1b7094ACbe68dfcC31C2B824dd6B5
 - [x] Add Portuguese translation
 - [ ] Add Spanish translation
 - [ ] Add German translation
+- [ ] Add Japanese translation
 - [ ] Add translations in other languages
-- [ ] Add illustrations to each page
 
 Found a mistake or have some feedback? Send me a message on Telegram! (@o_aipim)
 
