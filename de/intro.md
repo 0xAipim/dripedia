@@ -1,40 +1,39 @@
 ---
-label: Introduction
+label: Vorstellung
 order: -1
 icon: home
-description: An introduction to the DRIP Network and its main components -> Faucet, Reservoir, and Fountain.
 ---
 
-# Introduction
+# Vorstellung
 ---
 
-## What is the DRIP Network?
+## Was ist das DRIP-Netzwerk?
 
-The DRIP Network is a deflationary daily yield project on the BNB Chain. It is comprised by the Faucet, Reservoir, and Fountain.
+Das DRIP-Netzwerk ist ein deflationäres Projekt für tägliche Rendite in der BNB Chain. Es besteht aus dem Faucet, dem Reservoir und dem Fountain.
 
-By locking DRIP tokens into the **Faucet**, players yield 1% daily returns (limited to 365% of total deposits and to 100K DRIP tokens). The paid out yield comes from the transaction taxes on the DRIP token. Generated yield can be withdrawn or recompounded for exponential daily yields.
+Indem Spieler DRIP-Token in den **Faucet** einzahlen, erzielen sie eine tägliche Rendite von 1% (begrenzt auf 365% der Gesamteinlagen und 100K DRIP-Token). Die ausgezahlte Rendite ergibt sich aus den Transaktionsgebühren auf den DRIP-Token. Die generierte Rendite kann abgehoben oder für exponentielle tägliche Renditen neu aufgezinst werden.
 
-Players interested in yield farming can use the **Reservoir**, by depositing BNB which is transformed into a DRIP-BNB LP token (DROP), which earns rewards from swap fees on DRIP’s native DEX (decentralized exchange) and from Reservoir deposit and withdraw fees.
+Spieler, die am Yield-Farming interessiert sind, können das **Reservoir** nutzen, indem sie BNB einzahlen, die in einen DRIP-BNB LP-Token (DROP) umgewandelt werden, der aus den Swap-Gebühren auf der DRIP-eigenen DEX (dezentralisierte Börse) und aus den Reservoir-Einzahlungs- und -Abhebungsgebühren Erträge erwirtschaftet.
 
-On the **Fountain** page, players can exchange between DRIP and BNB, using our native DEX. The DRIP transaction tax for buying DRIP using Fountain is waived. Additionally, there are DRIP-BUSD and DRIP-WBNB pools available on Pancake Swap.
-
----
-
-## What is the $DRIP token?
-
-DRIP is the native token of our project. There’s a 10% tax charged on DRIP transactions (with some exceptions), which goes to the Faucet tax pool. The initial supply is 1 million DRIP tokens. In a situation where there’s not enough DRIP tokens in the tax pool to pay out Faucet rewards, new tokens will be minted to guarantee the rewards.
+Auf der Seite **Fountain** können die Spieler zwischen DRIP und BNB tauschen, indem sie unser natives DEX benutzen. Die Transaktionsgebühr für den Kauf von DRIP über Fountain entfällt. Zusätzlich gibt es DRIP-BUSD und DRIP-WBNB Pools, die auf Pancake Swap verfügbar sind.
 
 ---
-## Usages
-Beyond being an investment opportunity for individuals, the DRIP Network's products can be used in a variety of interesting ways.
 
-**Audience monetization:**
-Content creators/influencers can receive a stream of referral rewards by asking their audience to join their team in the DRIP Faucet. This dynamic also benefits the audience, who will receive the 1% daily yield on their deposits. Content creators can also send airdrops to their team, in order to give back and attract new team members.
+## Was ist der $DRIP-Token?
 
-**Content monetization:**
-Referral rewards from the DRIP Faucet can be a great way to monetize content such as access to courses, private groups, and others. Tools to make this process seamless are under development.
+DRIP ist der native Token unseres Projekts. Auf DRIP-Transaktionen wird eine Gebühr von 10 % berechnet (mit einigen Ausnahmen), die in den Steuerpool von Faucet fließt. Das anfängliche Angebot beträgt 1 Million DRIP-Token. Sollte es nicht genügend DRIP-Token im Steuerpool geben, um die Faucet-Belohnungen auszuzahlen, werden neue Token hergestellt, um die Belohnungen zu garantieren.
 
-**Reserve currency:**
-By using DRIP as a reserve currency, other platforms can take advantage of our resilient and sustainable daily yields. An example of this could be NFTs backed by DRIP Faucet deposits, generating yield to its current owner and to its creator.  
+---
+## Verwendungsmöglichkeiten
+Die Produkte des DRIP-Netzwerks sind nicht nur eine Investitionsmöglichkeit für Privatpersonen, sondern können auch auf verschiedene interessante Weise genutzt werden.
 
-Learn about our next steps and partnerships by checking out our Roadmap.
+**Monetarisierung des Nutzers:**
+Content-Ersteller/Influencer können einen Zufluss an Empfehlungsprämien erhalten, indem sie ihr Umfeld auffordern, ihrem Team im DRIP Faucet beizutreten. Diese Dynamik kommt auch den Zuschauern zugute, die eine tägliche Rendite von 1 % auf ihre Einzahlungen erhalten. Außerdem können Content Creator Airdrops an ihr Team senden, um etwas zurückzugeben und neue Teammitglieder zu gewinnen.
+
+**Monetarisierung von Inhalten:**
+Empfehlungsprämien aus dem DRIP Faucet können eine großartige Möglichkeit sein, den Zugang zu Kursen, privaten Gruppen und anderen Inhalten zu monetarisieren. Tools, die diesen Prozess vereinfachen, werden derzeit entwickelt.
+
+**Reservewährung:**
+Durch die Verwendung von DRIP als Reservewährung können andere Plattformen von unseren stabilen und nachhaltigen täglichen Erträgen profitieren. Ein Beispiel hierfür wären NFTs, die durch DRIP Faucet-Einlagen abgesichert sind und sowohl dem aktuellen Besitzer als auch dem Ersteller Rendite einbringen.  
+
+Informationen über unsere nächsten Schritte und Partnerschaften findest du in unserer Roadmap.

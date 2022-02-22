@@ -1,15 +1,14 @@
 ---
-label: Security Audits
+label: Sicherheitsprüfungen
 order: -8
 icon: codescan-checkmark
-description: Information about the security audits completed for the DRIP Network.
 ---
 
-# Security Audits
+# Sicherheitsprüfungen
 ---
-DRIP Network's smart contracts have been audited by [Slither](https://github.com/crytic/slither) a framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. [^1]
+Die Smart Contracts von DRIP Network wurden von [Slither](https://github.com/crytic/slither) geprüft, einem System, das eine Reihe von Sicherheitsrisiken aufspürt, visuelle Informationen über Vertragsdetails ausgibt und eine API bereitstellt, um auf einfache Weise eigene Analysen zu verfassen. [^1]
 
->Slither audit results:
+>Slither-Audit-Ergebnisse:
 >https://dripcommunity.org/wp-content/uploads/2021/07/Slither-Technical-Audit-DRIP-Network-v7.pdf
 
-[^1]: Source: Slither's website
+[^1]: Quelle: Slithers Website

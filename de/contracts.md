@@ -2,22 +2,21 @@
 label: Tokens & Contracts
 order: -7
 icon: repo
-description: The official addresses for the tokens and contracts of the DRIP Network. Including DRIP, BR34P, DROP, DRIP-BUSD LP, DRIP-WBNB LP, Faucet, Reservoir, Fountain.
 ---
 
 # Tokens & Contracts
 
-The official addresses for our tokens and contracts.
+Die offiziellen Adressen für die Token und Contracts.
 
 ---
 ## $DRIP
-The native currency of the DRIP Network. It has a 10% transaction tax that goes to supporting the Faucet's tax pool.
+Die native Währung des DRIP-Netzwerks. Sie hat eine 10%ige Transaktionsgebühr, die in den Steuerpool des Faucets fließt.
 
 > Token contract: [0x20f6...0333](https://bscscan.com/token/0x20f663cea80face82acdfa3aae6862d246ce0333)
 ---
 ## $BR34P
 
-Token used in the DRIP Network as a requirement for receiving Faucet referral rewards. On every BR34P transaction it is charged a 1% fee that is distributed to every wallet holder based on their share of the total BR34P supply, and another 1% fee is sent to 0x000 wallet and automatically burned.
+Token, der im DRIP-Netzwerk als Voraussetzung für den Erhalt von Faucet-Referral-Belohnungen verwendet wird. Auf jede BR34P-Transaktion wird eine Gebühr von 1 % erhoben, die an jeden Wallet-Besitzer auf der Grundlage seines Anteils am gesamten BR34P-Angebot verteilt wird, und eine weitere Gebühr von 1 % wird an die 0x000-Wallet gesendet und automatisch verbrannt.
 
 > Token contract: [0xa86d...8523](https://bscscan.com/token/0xa86d305a36cdb815af991834b46ad3d7fbb38523)
 >
@@ -29,7 +28,7 @@ Token used in the DRIP Network as a requirement for receiving Faucet referral re
 
 ## $DROP
 
-The DRIP-BNB liquidity pair token used in the Reservoir.
+Der Token des Paares DRIP-BNB wird im Reservoir verwendet.
 
 > Token contract: [0x4fe5...653a](https://bscscan.com/token/0x4fe59adcf621489ced2d674978132a54d432653a)
 
@@ -37,7 +36,7 @@ The DRIP-BNB liquidity pair token used in the Reservoir.
 
 ## DRIP-BUSD LP
 
-The DRIP-BUSD liquidity pair token on Pancake Swap. When creating or breaking this LP token, there's a 10% tax on the DRIP portion of the pair. To create this LP token tax free, players can use The Manor Farm's [DRIP Liberation](https://theanimal.farm/dripliberation) contract.
+Der DRIP-BUSD LP Token auf Pancake Swap. Bei der Erstellung oder Auflösung dieses LP-Tokens wird eine Steuer von 10% auf den DRIP-Anteil des Paares berechnet. Um diesen LP-Token steuerfrei zu erstellen, können Spieler den [DRIP Liberation](https://theanimal.farm/dripliberation) Vertrag von The Manor Farm verwenden.
 
 > Token contract:
 > [0xa0fe...1b58](https://bscscan.com/token/0xa0feb3c81a36e885b6608df7f0ff69db97491b58)
@@ -49,7 +48,7 @@ The DRIP-BUSD liquidity pair token on Pancake Swap. When creating or breaking th
 
 ## DRIP-WBNB LP
 
-The DRIP-WBNB liquidity pair token on Pancake Swap. When creating or breaking this LP token, there's a 10% tax on the DRIP portion of the pair.
+Der DRIP-WBNB LP Token auf Pancake Swap. Bei der Erstellung oder Auflösung dieses LP-Tokens wird eine Steuer von 10% auf den DRIP-Anteil des Paares berechnet.
 
 > Token contract:
 > [0xb17e...ee29](https://bscscan.com/token/0xb17e674a4b28958a0ef77e608b4fe94c23acee29)
@@ -60,7 +59,7 @@ The DRIP-WBNB liquidity pair token on Pancake Swap. When creating or breaking th
 
 ## DRIP Core Contracts
 
-Addresses for the core contracts of the DRIP Network.
+Adressen für die Kernverträge des DRIP-Netzwerks.
 
 > Faucet contract address:
 > [0xffe8...9d8c](https://bscscan.com/address/0xffe811714ab35360b67ee195ace7c10d93f89d8c)

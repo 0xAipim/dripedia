@@ -1,37 +1,36 @@
 ---
-label: F.A.Q.
+label: Häufig gestellte Fragen
 order: -9
 icon: question
-description: Answers to some of the most common questions about the DRIP Network, such as What are the risks involved in participating into the DRIP Network?, Is the DRIP Network a Pyramid Scheme?, Was DRIP inspired in any projects?
 ---
 
-# Frequently Asked Questions
+# Häufig gestellte Fragen
 ---
-## What are the risks involved in participating into the DRIP Network?
-**Economic risks:**
-Just like any financial asset, the price of the DRIP token is subject to volatility.
-There's the possibility of new DRIP being minted to pay out Faucet rewards if the tax pool doesn't have enough funds to do so, which would cause inflation.
+## Welche Risiken bringt die Nutzung des DRIP-Netzwerks mit sich?
+**Wirtschaftliche Risiken:**
+Wie jeder finanzielle Vermögenswert unterliegt auch der Preis des DRIP-Tokens einer gewissen Volatilität. Es besteht die Möglichkeit, dass neue DRIP hergestellt werden, um Faucet-Belohnungen weiter auszahlen zu können wenn der Steuerpool nicht über genügend Mittel verfügt. Dies würde zu einer Inflation führen.
 
-**How these economic risks are mitigated:**
-The game theory behind the project seeks to align the players' incentives towards actions that promote platform sustainability. This is done through a 10% tax on all transactions, with positive actions (such as buying DRIP and compounding Faucet rewards) receiving tax discounts or exemptions.
-When DRIP is deposited into the Faucet it is removed from circulation. This reduces the available supply for at least 100 days. For players that compound their gains, the available supply is reduced for an even longer period of time. Whale taxes and the 100K DRIP max withdraw amount prevent big players from draining the project, making them reinvest to continue receiving yield. Reservoir deposits and withdraws create an ever growing permanently locked liquidity, leading to an ever growing price floor.
+**Wie diese wirtschaftlichen Risiken reduziert werden:**
+Die Spieltheorie hinter dem Projekt zielt darauf ab, die Anreize der Spieler auf Handlungen auszurichten, die die Nachhaltigkeit der Plattform fördern. Dies geschieht durch eine 10 %ige Gebühr auf alle Transaktionen, wobei positive Aktionen (wie der Kauf von DRIP und das Aufstocken von Faucet-Belohnungen) mit Ermäßigungen oder Befreiungen belohnt werden.
 
-**Cyber-security risks:**
-Smart contracts are at risk of having exploits that lead to loss of funds.
-DRIP Network's smart contracts have been audited by Slither, a Solidity static analysis framework.
+Wenn DRIP in den Faucet eingezahlt wird, wird es aus dem Umlauf genommen. Dadurch wird das verfügbare Angebot für mindestens 100 Tage reduziert. Für Spieler, die ihre Gewinne aufstocken, wird das verfügbare Angebot für einen noch längeren Zeitraum reduziert. Die Walsteuer und der maximale Auszahlungsbetrag von 100.000 DRIP verhindern, dass große Spieler das Projekt ausschöpfen und zwingen sie zu Reinvestitionen, um weiterhin Erträge zu erhalten. Einzahlungen und Abhebungen aus dem Reservoir schaffen eine ständig wachsende, dauerhaft gesperrte Liquidität, die zu einer ständig wachsenden Preisuntergrenze führt.
 
----
-## Is the DRIP Network a Pyramid Scheme?
-Pyramid schemes are systems where players in the higher levels get a larger commission, as the majority of the profits are funneled to a few at the top. This is usually hidden behind the sale of products or services that produce almost no profit in themselves.
-
-The DRIP Network operates fully on chain. Its smart contracts are open-source, and all transactions with them are publicly available. The sources of the funds and the status of the project can be viewed by anyone, at anytime (using tools like BscScan).
-
-Players using the Faucet don't have to engage in team building if they don't want to, and will still continue to receive their Faucet rewards.
-Referral rewards are a bonus that fairly compensates players for helping expand the project and attract new players and capital. This reward is given during deposits, only goes to one player at a time, and has several eligibility requirements.
-There's a max payout of 100k DRIP, meaning senior players will eventually have to create a new wallet to continue receiving Faucet rewards, and onboard other new players to continue receiving referral rewards. This means there's a limited advantage to getting in early.
-
-All of this means players who enter the system later can make just as much or more than the initial wallets who entered the project, and there is no benefit to getting in early as far as how the team building structure goes. This is the opposite of a pyramid scheme. We are just a DeFi project that benefits people for onboarding capital in a fair and ingenious way.
+**Risiken der Cybersicherheit:**
+Bei intelligenten Verträgen besteht die Gefahr, dass sie durch Schwachstellen manipuliert werden, die zum Verlust von Geldern führen.
+Die Smart Contracts des DRIP Network wurden von Slither, einem System für statische Analysen von der Solidity-Plattform, geprüft.
 
 ---
-## Was DRIP inspired in any projects?
-DRIP took inspiration from the BankRoll Flow, a project on TRON.
+## Ist das DRIP-Netzwerk ein Pyramidensystem?
+Pyramidensysteme sind Systeme, bei denen die Spieler auf den höheren Ebenen eine höhere Provision erhalten, da der Großteil der Gewinne an einige wenige an der Spitze fließt. Dies wird in der Regel hinter dem Verkauf von Produkten oder Dienstleistungen versteckt, die an sich fast keinen Gewinn abwerfen.
+
+Das DRIP-Netzwerk arbeitet vollständig auf der Plattform. Seine Smart Contracts sind quelloffen und alle Transaktionen sind öffentlich zugänglich. Die Herkunft der Mittel und der Status des Projekts können jederzeit von jedermann eingesehen werden (mit Tools wie BscScan).
+
+Spieler, die den Faucet nutzen, müssen sich nicht an der Teambildung beteiligen, wenn sie das nicht wollen und erhalten trotzdem weiterhin ihre Faucet-Belohnungen. Empfehlungsprämien sind ein Bonus, der Spieler fair dafür entschädigt, dass sie helfen das Projekt zu erweitern und neue Spieler und Kapital anzuziehen. Diese Belohnung wird bei Einzahlungen ausgezahlt, geht immer nur an einen Spieler und ist an mehrere Bedingungen geknüpft.
+
+Es gibt eine maximale Auszahlung von 100k DRIP, was bedeutet, dass ältere Spieler irgendwann eine neue Wallet erstellen müssen, um weiterhin Faucet-Belohnungen zu erhalten und andere neue Spieler an Bord holen müssen, um weiterhin Empfehlungsbelohnungen zu erhalten. Das bedeutet, dass es nur einen begrenzten Vorteil gibt, früh einzusteigen.
+
+All dies bedeutet, dass Spieler, die später in das System einsteigen, genauso viel oder mehr verdienen können als die ersten Wallets. Es gibt keinen Vorteil, früh einzusteigen, was die Struktur der Teambildung betrifft. Dies ist das Gegenteil eines Schneeballsystems. Wir sind nur ein DeFi-Projekt, bei dem die Leute auf faire und geniale Art und Weise vom Einstiegskapital profitieren.
+
+---
+## Wurde DRIP von einem Projekt inspiriert?
+DRIP wurde vom BankRoll Flow, einem Projekt auf TRON, inspiriert.

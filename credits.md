@@ -11,7 +11,10 @@ description: Find out more about the next steps for the DRIPedia project.
 **Unofficial :droplet: documentation made with :heart: by:**
 
 **:wave: 0xAipim:**
-Want to send me some DRIP? 0xE07aaFF52FB1b7094ACbe68dfcC31C2B824dd6B5
+English and Portuguese · @o_aipim · 0xE07aaFF52FB1b7094ACbe68dfcC31C2B824dd6B5
+
+**:wave: DRIPinator:**
+German · @dripinator · 0x428a10825e3529D95dF8C5b841694318Ca95446f
 
 
 
@@ -22,8 +25,8 @@ Want to send me some DRIP? 0xE07aaFF52FB1b7094ACbe68dfcC31C2B824dd6B5
 - [ ] Add a DRIP Garden page
 - [ ] Add a Media Pack section
 - [x] Add Portuguese translation
+- [x] Add German translation
 - [ ] Add Spanish translation
-- [ ] Add German translation
 - [ ] Add Japanese translation
 - [ ] Add translations in other languages
 

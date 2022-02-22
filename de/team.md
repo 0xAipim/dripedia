@@ -2,28 +2,27 @@
 label: Team
 order: -5
 icon: people
-description: Learn about the team behind the DRIP Network. Find out more about all the projects of Forex Shark and BB.
 ---
 
 # Team
 ---
 ## Forex Shark
-Primary Developer of the DRIP Network.
-- Advised large development teams and handled their presale raises of tens of millions of dollars.
-- Developed [R34P](https://web.archive.org/web/20210626114433/https://r34p.finance/) (ERC20), a soft fork and 2º layer of the Reflect Finance project (Dec 2020).
-- Developed [Grim's Farm](https://web.archive.org/web/20210614122936/https://gr1m.finance/#/), a yield farming protocol on the ETH Blockchain designed to reward R34P liquidity providers (Jan 2021).
-- Developed [RAGE](https://web.archive.org/web/20210112172432/https://forexshark.medium.com/rage-first-ever-smart-auto-farming-protocol-55a2147d80cb) (ERC20), the third layer of development to R34P ecosystem (Jan 2021).
-- Developed [BR34P](https://br34p.finance) (BEP20), a BNB Chain fork of R34P (Feb 2021).
-- Developed [Rake Farm](https://farm.br34p.finance), a yield optimizer platform on BNB Chain that reached over $30M TVL (Feb 2021).
-- Developed [Silo](https://silo.br34p.finance), a noninflationary single asset staking platform for RAKE and BR34P (Mar 2021).
-- Developed [DRIP](https://drip.community) (Apr 2021).
-- Developed [DRIP Garden](https://theanimal.farm/garden) (Dec 2021).
-- Developed [The Manor Farm](https://themanor.farm), a layer 1 yield farming/lending protocol on BNB Chain, that reached over $70M TVL. Audited by [Paladin](https://paladinsec.co/projects/manorfarm/) and reviewed by [RucDoc](https://rugdoc.io/project/the-manor-farm/) (Jan 2022).
-- Developed [The Animal Farm](https://theanimal.farm), a layer 2 yield farming/lending protocol on BNB Chain, that reached over $300M TVL. Audited by [Paladin](https://paladinsec.co/projects/animal-farm/) and reviewed by [RugDoc](https://rugdoc.io/project/the-animal-farm/) (Feb 2022).
+Hauptentwickler des DRIP-Netzwerks.
+- Er hat große Entwicklungsteams beraten und deren Vorverkäufe in zweistelliger Millionenhöhe abgewickelt.
+- Entwicklung von [R34P](https://web.archive.org/web/20210626114433/https://r34p.finance/) (ERC20), ein Soft Fork und 2º Layer des Reflect Finance Projekts (Dez 2020).
+- Entwicklung von [Grim's Farm](https://web.archive.org/web/20210614122936/https://gr1m.finance/#/), einem Yield-Farming-Protokoll auf der ETH-Blockchain, das R34P-Liquiditätsanbieter belohnen soll (Jan 2021).
+- Entwicklung von [RAGE](https://web.archive.org/web/20210112172432/https://forexshark.medium.com/rage-first-ever-smart-auto-farming-protocol-55a2147d80cb) (ERC20), der dritten Entwicklungsstufe des R34P-Ökosystems (Jan 2021).
+- Entwicklung von [BR34P](https://br34p.finance) (BEP20), einer BNB-Chain-Abspaltung von R34P (Feb 2021).
+- Entwicklung von [Rake Farm](https://farm.br34p.finance), einer Plattform zur Ertragsoptimierung auf BNB Chain, die über $30M TVL erreicht hat (Feb 2021).
+- Entwicklung von [Silo](https://silo.br34p.finance), einer nicht-inflationären Single-Asset-Staking-Plattform für RAKE und BR34P (März 2021).
+- Entwicklung von [DRIP](https://drip.community) (Apr 2021).
+- Entwicklung von [DRIP Garden](https://theanimal.farm/garden) (Dez 2021).
+- Entwicklung von [The Manor Farm](https://themanor.farm), ein Layer 1 Yield Farming/Lending Protokoll auf der BNB Chain, das über $70M TVL erreichte. Geprüft von [Paladin](https://paladinsec.co/projects/manorfarm/) und begutachtet von [RucDoc](https://rugdoc.io/project/the-manor-farm/) (Jan 2022).
+- Entwicklung von [The Animal Farm](https://theanimal.farm), ein Layer 2 Yield Farming/Lending Protokoll auf der BNB Chain, das über $300M TVL erreichte. Geprüft von [Paladin](https://paladinsec.co/projects/animal-farm/) und begutachtet von [RugDoc](https://rugdoc.io/project/the-animal-farm/) (Feb 2022).
 
 >Telegram: @Forex_Sh4rk
 >
->Announcement channel: https://t.me/forexsharkcalls
+>Ankündigungskanal: https://t.me/forexsharkcalls
 >
 >Twitter: https://twitter.com/F0r3x_Shark
 >

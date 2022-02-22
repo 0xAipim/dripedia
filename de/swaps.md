@@ -1,21 +1,21 @@
 ---
-label: Swaps & Liquidity
+label: Swaps & Liquidität
 order: -3
 icon: arrow-switch
-description: Find out where to trade DRIP tokens. Learn about the DRIP Fountain, and about the Pancake Swap liquidity pools.
 ---
 
-# Swaps & Liquidity
-DRIP has liquidity pools with BNB and BUSD.
+ # Swaps & Liquidität
+
+DRIP verfügt über Liquiditätspools mit BNB und BUSD.
 
 ---
-## The Fountain
-Fountain is our native DEX (decentralized exchange), used for DRIP-BNB swaps. Specifically on this DEX, the 10% transaction tax is waived for buying DRIP.
-> The Fountain website: https://drip.community/fountain
+## Fountain (Brunnen)
+Fountain ist unsere eigene DEX (dezentralisierte Börse), die für DRIP-BNB-Swaps verwendet wird. Speziell auf dieser DEX wird die 10%ige Transaktionssteuer für den Kauf von DRIP ausgesetzt.
+> Fountain website: https://drip.community/fountain
 
 ---
 ## Pancake Swap
-We use Pancake Swap for our DRIP-BUSD liquidity pool. There's also a (smaller) DRIP-WBNB liquidity pool.
-> [DRIP-BUSD Pancake Swap pool info](https://pancakeswap.finance/info/pool/0xa0feb3c81a36e885b6608df7f0ff69db97491b58)
+Wir verwenden Pancake Swap für unseren DRIP-BUSD-Liquiditätspool. Es gibt auch einen (kleineren) DRIP-WBNB-Liquiditätspool.
+> [Informationen zum DRIP-BUSD Pancake Swap-Pool](https://pancakeswap.finance/info/pool/0xa0feb3c81a36e885b6608df7f0ff69db97491b58)
 >
-> [DRIP-WBNB Pancake Swap pool](https://pancakeswap.finance/info/pool/0xb17e674a4b28958a0ef77e608b4fe94c23acee29)
+> [Informationen zum DRIP-WBNB Pancake Swap-Pool](https://pancakeswap.finance/info/pool/0xb17e674a4b28958a0ef77e608b4fe94c23acee29)

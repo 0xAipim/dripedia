@@ -7,17 +7,17 @@ description: Recursos para a DRIP Network. Inclui os links das redes sociais, gr
 
 # Recursos
 
-**Código fonte do projeto**
+**Código fonte do projeto:**
 Veja o código fonte dos contratos inteligentes da DRIP Network.
 [Link para o GitHub](https://github.com/CryptoKira/Drip.community.contracts)
 
 ---
-**Twitter**
+**Twitter:**
 Fique por dentro das novas atualizações do projeto.
 https://twitter.com/DRIPcommunity
 
 
-**Comunicados do Forex Shark**
+**Comunicados do Forex Shark:**
 Atualizações e notícias diretamente do Forex Shark, o desenvolvedor principal da DRIP Network.
 https://t.me/forexsharkcalls
 
@@ -45,29 +45,29 @@ Italiano: https://t.me/DripCommunityItalia
 
 ---
 
-**DripFi**
+**DripFi:**
 Site com ótimo design que permite você ver o status da sua conta na Faucet, interagir com os contratos, e calcular ganhos futuros. Desenvolvido por Baby Grinch (@babygrinch69).
 https://dripfi.app
 
-**Explorador da DRIP Faucet**
+**Explorador da DRIP Faucet:**
 Permite ver o status da Faucet de múltiplas carteiras. Desenvolvido por Luke Charters (@LukeCharters).
 https://drip-scan.netlify.app/faucet/
 
-**Cronograma do DRIP Garden**
+**Cronograma do DRIP Garden:**
 Veja a data e horário em que suas próximas colheitas/replantios estarão disponíveis. Desenvolvido por Luke Charters (@LukeCharters).
 https://drip-scan.netlify.app/garden
 
-**Drip Account Manager**
+**Drip Account Manager:**
 Permite que você interaja com os contratos de DRIP sem ter que usar o site.
 https://github.com/CryptoDefiTools/drip-account-manager
 
 ---
-**Análises e gráficos MongoDB**
+**Análises e gráficos MongoDB:**
 Veja os gráficos de novos usuários diários e mensais. Desenvolvido por Mathieu (@matroxdev).
 https://bit.ly/3hpJ7gR
 
-**Estatísticas do ecossistema Dune Analytics**
-Gráficos e dados de análises da blockcahin. Desenvolvido por nightshift2k (@nightshift2k).
+**Estatísticas do ecossistema Dune Analytics:**
+Gráficos e dados de análises da blockchain. Desenvolvido por nightshift2k (@nightshift2k).
 https://dune.xyz/dripstats/DRIP-Token
 
 **Gráficos de preço (Pancake Swap):**

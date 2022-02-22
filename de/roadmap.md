@@ -2,53 +2,52 @@
 label: Roadmap
 order: -4
 icon: versions
-description: Roadmap of the DRIP Network, an overview of our achievements and of what is next. Find out about the BeeFarm Partnership, DRIP Liberation, DRIP Garden, The Manor Farm Partnership, The Animal Farm Partnership.
 ---
 
 # Roadmap
-An overview of our achievements and of what's next.
+Ein Überblick über die bisherigen Erfolge und die nächsten Projekte.
 
 ---
 
 ## 2021
-**Official Launch:**
-On the 22nd of April, DRIP presale tokens were distributed, and the website and contracts were officially released.
+**Offizieller Start:**
+Am 22. April wurden die DRIP-Vorverkaufs-Token verteilt und die Website und die Verträge offiziell veröffentlicht.
 
-**BeeFarm Partnership:**
-[ BeeFarm](https://app.beefarm.finance) was a yield farming protocol on BNB Chain. This partnership created staking opportunities on BeeFarm for the following LP pairs: DRIP-BEE, DRIP-BUSD, DRIP-BNB. The staking reward was BEE, the native token of the farm.
-Before this partnership, the only liquidity for DRIP was on its native DEX. [According to Forex Shark](https://web.archive.org/web/20210629160630/https://forexshark.medium.com/history-in-the-making-2fbb4b3c44d1), this partnership seeked to add liquidity on Pancake Swap, allowing the project to have decentralized liquidity and appear on analytic sites.
-The pools were launched on the 13th of July, adding around $400K worth of liquidity to Pancake Swap DRIP pools on the first day.
+**BeeFarm-Partnerschaft:**
+[ BeeFarm](https://app.beefarm.finance) war ein Yield Farming Protokoll auf der BNB Chain. Diese Partnerschaft schuf Einsatzmöglichkeiten auf BeeFarm für die folgenden LP-Paare: DRIP-BEE, DRIP-BUSD, DRIP-BNB. Die Einsatzbelohnung war BEE, der native Token der Farm.
+Vor dieser Partnerschaft war die einzige Liquidität für DRIP auf dem eigenen DEX. [Laut Forex Shark](https://web.archive.org/web/20210629160630/https://forexshark.medium.com/history-in-the-making-2fbb4b3c44d1), diese Partnerschaft zielte darauf ab, Liquidität auf Pancake Swap hinzuzufügen, wodurch das Projekt dezentralisierte Liquidität erhalten und auf analytischen Websites erscheinen konnte.
+Die Pools wurden am 13. Juli gestartet und fügten den Pancake Swap DRIP Pools am ersten Tag Liquidität im Wert von etwa 400.000 $ hinzu.
 
 **DRIP Liberation:**
-The [DRIP Liberation](https://theanimal.farm/dripliberation) contract allows players to acquire DRIP-BUSD LP tokens without paying the DRIP transaction tax. This contract acts as a DEX aggregator by buying DRIP on whichever DEX is providing the best price, after accounting for swap fees and price impact.
+Der [DRIP Liberation](https://theanimal.farm/dripliberation) Vertrag ermöglicht es Spielern, DRIP-BUSD-LP-Token zu erwerben, ohne die DRIP Transaktionssteuer zu bezahlen. Dieser Vertrag fungiert als DEX-Aggregator, indem er DRIP auf dem DEX kauft, der den besten Preis bietet, nachdem Swap-Gebühren und Preisauswirkungen berücksichtigt wurden.
 
 **DRIP Garden:**
-The [DRIP Garden](https://theanimal.farm/garden) is a "miner game", where players exchange their DRIP-BUSD LP tokens for plants at a varying rate. Plants generate seeds at a constant rate. Seeds can be planted (compounding deposits) or harvested: exchanged for DRIP-BUSD LP tokens at a varying rate (depends on the contract's balance). The variable exchange rates are set in a way to always make it attractive for new capital to join the project.
-One week before the launch of DRIP Liberation & DRIP Garden on the 16 of December, there was $1.52M worth of DRIP-BUSD liquidity on Pancake Swap. By the end of the month, the total liquidity was worth $14.17M.
+Der [DRIP Garden](https://theanimal.farm/garden) ist ein "Mining-Spiel", bei dem die Spieler ihre DRIP-BUSD-LP-Token zu einem variablen Kurs gegen Pflanzen eintauschen. Die Pflanzen erzeugen mit einer konstanten Rate Samen. Die Samen können gepflanzt (zusammengesetzte Einlagen) oder geerntet werden: Sie werden zu einem variablen Kurs gegen DRIP-BUSD-LP-Token getauscht (abhängig vom Kontostand). Die variablen Wechselkurse sind so festgelegt, dass es für neues Kapital immer attraktiv ist, dem Projekt beizutreten.
+Eine Woche vor dem Start von DRIP Liberation & DRIP Garden am 16. Dezember gab es DRIP-BUSD-Liquidität im Wert von 1,52 Millionen Dollar auf Pancake Swap. Am Ende des Monats belief sich die Gesamtliquidität auf 14,17 Mio. $.
 
 ---
 ## 2022
 
-**The Manor Farm Partnership:**
-[ The Manor Farm](https://themanor.farm) was a layer 1 yield farming/lending protocol on BNB Chain. This partnership created staking opportunities for DRIP-BUSD tokens on The Manor Farm, yielding REV tokens (later exchangeable for Animal Farm tokens). Staking DRIP-BUSD tokens had a 1% fee, that went to funding the DRIP Faucet tax pool. The Manor Farm launched on the 4th of January, and ended its emissions on the 18th of January.
+**The Manor Farm-Partnerschaft:**
+[ Die Manor Farm](https://themanor.farm) war ein Layer 1 Yield Farming/Lending Protokoll auf der BNB Chain. Diese Partnerschaft schuf Einsatzmöglichkeiten für DRIP-BUSD-Token auf der Manor Farm, die REV-Token einbrachten (später umtauschbar in Animal Farm Token). Für den Einsatz von DRIP-BUSD-LP-Token wurde eine Gebühr von 1 % erhoben, die zur Finanzierung des DRIP-Faucet-Steuerpools diente. Die Manor Farm startete am 4. Januar und beendete ihre Emissionen am 18. Januar.
 
-**The Animal Farm Partnership:**
-[ The Animal Farm](https://theanimal.farm) is a layer 2 yield farming/lending protocol on BNB Chain, and the successor of The Manor Farm. This partnership created the same staking opportunity as in The Manor Farm, except that the yield is in PIGS tokens (the project's governance token). The Animal Farm launched on the 3rd of February.
+**The Animal Farm-Partnerschaft:**
+[ Die Animal Farm](https://theanimal.farm) ist ein Layer 2 Yield Farming/Lending Protokoll auf der BNB Chain und der Nachfolger von The Manor Farm. Diese Partnerschaft schafft die gleiche Einsatzmöglichkeit wie bei der Manor Farm, mit dem Unterschied, dass die Rendite in PIGS Token (dem Governance Token des Projekts) erfolgt. The Animal Farm startete am 3. Februar.
 
 
 ---
-## What's next?
-**Team competitions and website updates:**
-Create weekly/monthly competitions for teams to compete for prizes on member growth or other metrics. Along with this feature, there will be a visual and functional update to the website.
+## Was kommt als nächstes?
+**Teamwettbewerbe und Website-Updates:**
+Erstellt wöchentliche/monatliche Wettbewerbe für Teams, die um Preise für Mitgliederwachstum oder andere Kriterien konkurrieren. Zusammen mit dieser Funktion wird es eine visuelle und funktionelle Aktualisierung der Website geben.
 
-**Casino Partnership:**
-This partnership will add usage for the DRIP token in the partner casino. Details to be announced.
+**Casino-Partnerschaft:**
+Diese Partnerschaft wird die Nutzung des DRIP Token in einem Partnercasino ermöglichen. Details werden noch bekannt gegeben.
 
-**Trap and Hip Hop Artists NFTs:**
-Development of NFTs that are backed by DRIP. Details to be announced.
+**NFTs für Rap- und Hip-Hop-Künstler:**
+Entwicklung von NFTs, die durch DRIP unterstützt werden. Details werden noch bekannt gegeben.
 
-**Cross chain NFT protocol partnership:**
-Development a cross chain (BNB Chain and ETH Blockchain) NFT protocol, that would have utility on the DRIP Network and on the partner's platform.
+**Cross-Chain NFT Protokoll Partnerschaft:**
+Entwicklung eines systemübergreifenden (BNB Chain und ETH Blockchain) NFT-Protokolls, das sowohl im DRIP-Netzwerk als auch auf der Plattform des Partners genutzt werden kann.
 
-**Access control API:**
-Development of APIs that allow Faucet team leaders to authenticate access according to team membership status, deposit amount, and other metrics. This would allow, for example, content creators to offer access to their exclusive content in return for people joining their DRIP Faucet team.
+**Zugangskontrolle über API:**
+Entwicklung von APIs, die es Faucet-Teamleitern ermöglichen, den Zugang je nach Status der Teammitgliedschaft, Höhe der Einzahlung und anderer Daten zu kontrollieren. Dies würde es z.B. Content-Erstellern ermöglichen, Zugang zu ihren exklusiven Inhalten als Gegenleistung für die Mitgliedschaft in ihrem DRIP-Faucet-Team anzubieten.

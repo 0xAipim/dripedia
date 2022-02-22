@@ -2,20 +2,19 @@
 label: Reservoir
 order: -2
 icon: package
-description: DRIP Reservoir offers passive BNB rewards by adding liquidity to the DRIP token. Learn more about how its reward structure works. 
 ---
 
 # Reservoir
-Earn passive BNB rewards by adding liquidity to the DRIP token.
+Passive BNB-Prämien verdienen, indem man Liquidität zum DRIP-Token hinzufügt.
 
 ---
-## How does it work?
-The Reservoir allows players to earn yield farming rewards by adding DRIP-BNB liquidity to the project's native DEX (decentralized exchange). This provides price volatility protection and a rising price floor, as permanently locked liquidity is generated during this process.
+## Wie funktioniert's?
+Das Reservoir ermöglicht es den Spielern, Yield-Farming-Belohnungen zu verdienen, indem sie DRIP-BNB-Liquidität in die DEX (dezentralisierte Börse) des Projekts hinzufügen. Dies gewährleistet einen Schutz vor Preisschwankungen und eine steigende Preisuntergrenze, da während dieses Vorgangs dauerhaft gesperrte Liquidität erzeugt wird.
 
-To enter and exit the Reservoir, players must exchange BNB ↔ DROP (a DRIP-BNB LP token). A 10% tax is charged on this transaction, that is used for: (2%) buying DROP and distributing it to the players in the Reservoir; (5%) supplying the Reservoir dividend pool, which pays out 2% daily of its balance to players in the Reservoir; (3%) becoming locked liquidity.
+Um das Reservoir zu betreten und zu verlassen, müssen die Spieler BNB ↔ DROP (ein DRIP-BNB LP-Token) umtauschen. Auf diese Transaktion wird eine Gebühr von 10% berechnet, die für Folgendes verwendet wird: (2%) Kauf von DROP und Verteilung an die Spieler im Reservoir; (5%) Versorgung des Reservoir-Dividendenpools, der täglich 2% seines Guthabens an die Spieler im Reservoir ausschüttet; (3%) Verwendung als gesperrte Liquidität.
 
-There is a 1% swap fee between DRIP and BNB on the native DEX, which goes to the Reservoir dividend pool. This creates a source of rewards for Reservoir players that is not depended on people joining/leaving the Reservoir.
+Es gibt eine Swap-Gebühr von 1% zwischen DRIP und BNB auf der DEX, die in den Reservoir-Dividendenpool fließt. Dies schafft eine Quelle von Belohnungen für Reservoir-Spieler, die nicht davon abhängt, ob jemand dem Reservoir beitritt oder es verlässt.
 
-Players in the Reservoir receive the following rewards (proportional to their share of DROP holdings):
-- 2% a day of the balance of the Reservoir dividend pool (BNB rewards)
-- 2% of the BNB to DROP swaps (DROP rewards)
+Spieler im Reservoir erhalten die folgenden Belohnungen (proportional zu ihrem Anteil an DROP-Beständen):
+- 2% pro Tag vom Guthaben des Reservoir-Dividendenpools (BNB-Belohnungen)
+- 2% der BNB-zu-DROP-Swaps (DROP-Belohnungen)
