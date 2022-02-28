@@ -2,7 +2,7 @@
 label: Security Audits
 order: -8
 icon: codescan-checkmark
-description: Information about the security audits completed for the DRIP Network.
+description: Information about the security audits completed for the DRIP Network. Understand what is the Slither tool.
 ---
 
 # Security Audits

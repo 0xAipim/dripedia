@@ -10,7 +10,7 @@ An overview of our achievements and of what's next.
 
 ---
 
-## 2021
+### 2021
 **Official Launch:**
 On the 22nd of April, DRIP presale tokens were distributed, and the website and contracts were officially released.
 
@@ -27,7 +27,7 @@ The [DRIP Garden](https://theanimal.farm/garden) is a "miner game", where player
 One week before the launch of DRIP Liberation & DRIP Garden on the 16 of December, there was $1.52M worth of DRIP-BUSD liquidity on Pancake Swap. By the end of the month, the total liquidity was worth $14.17M.
 
 ---
-## 2022
+### 2022
 
 **The Manor Farm Partnership:**
 [ The Manor Farm](https://themanor.farm) was a layer 1 yield farming/lending protocol on BNB Chain. This partnership created staking opportunities for DRIP-BUSD tokens on The Manor Farm, yielding REV tokens (later exchangeable for Animal Farm tokens). Staking DRIP-BUSD tokens had a 1% fee, that went to funding the DRIP Faucet tax pool. The Manor Farm launched on the 4th of January, and ended its emissions on the 18th of January.
@@ -37,7 +37,7 @@ One week before the launch of DRIP Liberation & DRIP Garden on the 16 of Decembe
 
 
 ---
-## What's next?
+### What's next?
 **Team competitions and website updates:**
 Create weekly/monthly competitions for teams to compete for prizes on member growth or other metrics. Along with this feature, there will be a visual and functional update to the website.
 

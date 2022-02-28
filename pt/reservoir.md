@@ -2,14 +2,14 @@
 label: Reservoir (Reservatório)
 order: -2
 icon: package
-description: O Reservoir oferece recompensas em BNB de forma passiva ao adicionar liquidez ao token DRIP. Descubra como o seu sistema de rendimentos funciona.
+description: O Reservoir oferece recompensas em BNB de forma passiva ao adicionar liquidez ao token DRIP. Entenda o sistema de rendimentos.
 ---
 
 # Reservoir (Reservatório)
 Receba recompensas em BNB de forma passiva ao adicionar liquidez ao token DRIP.
 
 ---
-## Como funciona?
+### Como funciona?
 Reservoir permite que seus participantes recebam recompensas de yield farming (agricultura de rendimentos) por adicionar liquidez ao par DRIP-BNB na DEX (corretora descentralizada) nativa do projeto. Com isso é gerada uma proteção contra volatilidade e um preço mínimo crescente, já que liquidez permanentemente fixa é gerada durante o processo.
 
 Para fazer parte ou sair do Reservoir, os participantes precisam fazer uma troca entre BNB ↔ DROP (token provedor de liquidez para o par DRIP-BNB). Uma taxa de 10% é cobrada nesta transação, que é usada para: (2%) comprar DROP e distribuir para os participantes do Reservoir; (5%) abastecer a reserva de dividendos do Reservoir, que paga diariamente 2% de seu balanço aos participantes dentro do Reservoir; (3%) se tornar liquidez permanentemente fixa.

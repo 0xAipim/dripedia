@@ -2,7 +2,7 @@
 label: Auditoria
 order: -8
 icon: codescan-checkmark
-description: Informações sobre as auditorias de segurança completadas para a DRIP Network.
+description: Informações sobre as auditorias de segurança completadas para a DRIP Network. Entenda o que é a ferramenta Slither.
 ---
 
 # Auditoria de Segurança

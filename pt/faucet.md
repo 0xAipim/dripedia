@@ -9,14 +9,14 @@ description: DRIP Faucet é um contrato de baixo risco e alto rendimento que fun
 Um contrato de baixo risco e alto rendimento que funciona de forma similar a um certificado de depósito.
 
 ---
-## Como funciona?
+### Como funciona?
 
 Para fazer parte da Faucet, participantes depositam tokens DRIP. Tokens DRIP depositados são enviados permanentemente para a reserva de fundos da Faucet e não podem ser sacados pelos participantes. A Faucet oferece rendimentos diários de 1% (em DRIP) do total de depósitos, com um limite para o total de saques igual a 365% do total depositado ou 100K tokens DRIP (o que for menor).
 
 Os rendimentos diários de 1% tem como fonte a reserva de fundos da Faucet, que é financiada pelos depósitos na Faucet e pelas taxas de transação do token DRIP. Se houver uma situação em que não haja tokens DRIP suficientes na reserva de fundos da Faucet para pagar os rendimentos da Faucet, novos tokens DRIP serão cunhados para garantir que os rendimentos sejam pagos. Dada a teoria de jogo por trás do projeto, a probabilidade de que novos tokens DRIP sejam cunhados é extremamente baixa.
 
 ---
-##  Ações
+###  Ações
 
 **Depositar:**
 Deposita tokens DRIP da sua carteira no contrato da Faucet. Há um valor mínimo de depósito de 1 DRIP. Adicionalmente, há um imposto de 10% para depositar DRIP na Faucet.
@@ -41,7 +41,7 @@ Enviar airdrops pode lhe ajudar a garantir que sua conta tenha um status positiv
 
 ---
 
-## Equipes e Indicações
+### Equipes e Indicações
 
 Antes que um participante possa depositar na Faucet, o participante terá que se juntar à equipe de outra pessoa, inserindo o endereço da carteira da pessoa no sistema de indicação. Essa pessoa escolhida (líder da equipe) já deve estar ativa na Faucet (ter um depósito na Faucet) e ter 14 ou menos pessoas acima dela (há um limite de 15 níveis). Não é possível trocar de equipe.
 
@@ -105,7 +105,7 @@ Como não há nenhuma conta acima da carteira do desenvolvedor, o nível de reco
 
 ---
 
-## Imposto para baleias
+### Imposto para baleias
 
 Para garantir a sustentabilidade do projeto, um imposto adicional sobre saques da Faucet é aplicado aos participantes de acordo com a soma de seus **saques totais + recompensas de Faucet disponíveis** em relação à quantidade total de tokens DRIP.
 

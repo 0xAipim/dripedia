@@ -2,13 +2,13 @@
 label: Introdução
 order: -1
 icon: home
-description: Uma introdução à DRIP Network e seus principais componentes -> Faucet, Reservoir, e Fountain.
+description: Uma introdução à DRIP Network e seus principais componentes -> Faucet, Reservoir, e Fountain. Veja exemplos de usos interessantes.
 ---
 
 # Introdução
 ---
 
-## O que é DRIP Network?
+### O que é DRIP Network?
 
 DRIP Network é um projeto na BNB Chain que oferece rendimentos diários de forma deflacionária. É composto pela Faucet (Torneira), Reservoir (Reservatório), e  Fountain (Chafariz).
 
@@ -20,12 +20,12 @@ Na **Fountain (Chafariz)**, participantes podem fazer trocas entre BNB e DRIP ut
 
 ---
 
-## O que é o token $DRIP?
+### O que é o token $DRIP?
 
 DRIP é o token nativo deste projeto. É cobrada uma taxa de 10% em transações (com algumas exceções) de DRIP, cujo valor vai para a reserva de fundos da Faucet. A disponibilidade inicial é de 1 milhão de tokens DRIP. Em uma situação onde não há tokens DRIP suficientes na reserva de fundos para pagar os rendimentos da Faucet, novos tokens serão cunhados para garantir as recompensas dos participantes.
 
 ---
-## Exemplos de uso
+### Exemplos de uso
 Além de ser uma opção de investimento para indivíduos, os produtos da DRIP Network possuem uma variedade de usos adicionais.
 
 **Monetização de audiências:**

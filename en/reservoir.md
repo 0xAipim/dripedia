@@ -2,14 +2,14 @@
 label: Reservoir
 order: -2
 icon: package
-description: DRIP Reservoir offers passive BNB rewards by adding liquidity to the DRIP token. Learn more about how its reward structure works. 
+description: DRIP Reservoir offers passive BNB rewards by adding liquidity to the DRIP token. Understand the reward structure.
 ---
 
 # Reservoir
 Earn passive BNB rewards by adding liquidity to the DRIP token.
 
 ---
-## How does it work?
+### How does it work?
 The Reservoir allows players to earn yield farming rewards by adding DRIP-BNB liquidity to the project's native DEX (decentralized exchange). This provides price volatility protection and a rising price floor, as permanently locked liquidity is generated during this process.
 
 To enter and exit the Reservoir, players must exchange BNB ↔ DROP (a DRIP-BNB LP token). A 10% tax is charged on this transaction, that is used for: (2%) buying DROP and distributing it to the players in the Reservoir; (5%) supplying the Reservoir dividend pool, which pays out 2% daily of its balance to players in the Reservoir; (3%) becoming locked liquidity.

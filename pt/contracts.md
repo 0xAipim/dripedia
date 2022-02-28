@@ -10,24 +10,26 @@ description: Os endereços oficiais dos tokens e contratos da DRIP Network. Incl
 Os endereços oficiais dos nossos tokens e contratos.
 
 ---
-## $DRIP
-Token nativo da DRIP Network. Possui uma taxa de transação de 10% que vai para a reserva de fundos da Faucet.
+### $DRIP
+Token nativo da DRIP Network. Possui uma taxa de transação de 10% que vai para a reserva de fundos da Faucet. A quantidade inicial e atual de tokens DRIP é de 1 milhão de tokens.
 
 > Contrato do token: [0x20f6...0333](https://bscscan.com/token/0x20f663cea80face82acdfa3aae6862d246ce0333)
 ---
-## $BR34P
+### $BR34P
 
-Token usado na DRIP Network como exigência para receber recompensas por indicação na Faucet. Para cada transação do token BR34P é cobrado uma taxa de 1% que é distribuída entre todos os titulares de acordo com suas participações na quantidade total do token, e é cobrado também uma segunda taxa de 1% que é enviada para o endereço 0x000, automaticamente queimando os tokens.
+Token usado na DRIP Network como exigência para receber recompensas por indicação na Faucet. Para cada transação do token BR34P é cobrado uma taxa de 1% que é distribuída entre todos os titulares de acordo com suas participações na quantidade total do token, e é cobrado também uma segunda taxa de 1% que é enviada para o endereço 0x000, automaticamente queimando os tokens. A quantidade inicial de tokens foi 1 milhão.
 
 > Contrato do token: [0xa86d...8523](https://bscscan.com/token/0xa86d305a36cdb815af991834b46ad3d7fbb38523)
 >
 > Site do token: https://br34p.finance
 >
+> Telegram: https://t.me/Br34P_Chat
+>
 > Github: https://github.com/br34p/
 
 ---
 
-## $DROP
+### $DROP
 
 Token de liquidez do par DRIP-BNB usado no Reservoir.
 
@@ -35,7 +37,7 @@ Token de liquidez do par DRIP-BNB usado no Reservoir.
 
 ---
 
-## DRIP-BUSD LP
+### DRIP-BUSD LP
 
 Token de liquidez do par DRIP-BUSD da Pancake Swap. Quando se cria ou quebra esse par de liquidez, é cobrado a taxa de transação de 10% na porção de DRIP do par. Para criar esse token sem pagar essa taxa, participantes podem utilizar o contrato [DRIP Liberation](https://theanimal.farm/dripliberation).
 
@@ -47,7 +49,7 @@ Token de liquidez do par DRIP-BUSD da Pancake Swap. Quando se cria ou quebra ess
 
 ---
 
-## DRIP-WBNB LP
+### DRIP-WBNB LP
 
 Token de liquidez do par DRIP-WBNB da Pancake Swap. Quando se cria ou quebra esse par de liquidez, é cobrado a taxa de transação de 10% na porção de DRIP do par.
 
@@ -58,7 +60,7 @@ Token de liquidez do par DRIP-WBNB da Pancake Swap. Quando se cria ou quebra ess
 
 ---
 
-## Contratos principais
+### Contratos principais
 
 Endereços dos contratos principais da DRIP Network.
 

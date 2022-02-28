@@ -9,14 +9,14 @@ description: DRIP Faucet is a low-risk high-reward contract that operates simila
 A low-risk high-reward contract that operates similarly to a certificate of deposit investment.
 
 ---
-## How does it work?
+### How does it work?
 
 Players can participate in the Faucet by depositing DRIP tokens into it. Deposited DRIP tokens are permanently sent to the Faucet tax pool and cannot by redeemed by the player. The Faucet yields 1% daily rewards (in DRIP) of total deposits, with a max payout of 365% of total deposit amount or 100K DRIP tokens (whichever is smaller).
 
 The 1% daily rewards come from the Faucet tax pool, which is funded by DRIP Faucet deposits and DRIP token transaction taxes. If there’s ever a situation where there aren't not enough DRIP tokens in the Faucet tax pool to pay out Faucet rewards, new DRIP tokens will be minted to ensure rewards are paid out. Given the game theory behind the project, the probability that new DRIP tokens will be minted is extremely low.
 
 ---
-##  Actions
+### Actions
 
 **Deposit:**
 Deposits DRIP tokens from your wallet into the Faucet contract. There’s a minimum deposit amount of 1 DRIP. Also, there's a 10% tax for depositing DRIP into the Faucet.
@@ -41,7 +41,7 @@ Sending airdrops can help ensure that your account has a positive net deposit st
 
 ---
 
-## Teams and Referrals
+### Teams and Referrals
 
 Before a player can deposit into the Faucet, they will have to join another person’s team by inputting the person’s wallet address into the Buddy Referral System. This buddy (team leader) must already be active in the Faucet (have a Faucet deposit) and have 14 or less people above them (there's a limit of 15 levels). It is not possible to change teams.
 
@@ -105,7 +105,7 @@ Since there's no account above the dev wallet, the reward level will reset to le
 
 ---
 
-## Whale Tax
+### Whale Tax
 
 In order to maintain the sustainability of the project, an additional tax on Faucet withdraws is applied on players according to the sum of their **total withdraws + available Faucet rewards** in relation to the total supply of DRIP tokens.
 

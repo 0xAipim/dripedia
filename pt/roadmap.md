@@ -10,7 +10,7 @@ Um resumo das nossas conquistas e dos nossos próximos passos
 
 ---
 
-## 2021
+### 2021
 **Lançamento oficial:**
 No dia 22 de Abril, os tokens DRIP comprados na pré-venda foram distribuídos, e o site e os contratos foram oficialmente lançados.
 
@@ -27,7 +27,7 @@ O contrato [DRIP Liberation](https://theanimal.farm/dripliberation) permite a aq
 Uma semana antes do lançamento de DRIP Liberation & DRIP Garden no dia 16 de Dezembro, havia uma liquidez de $1,52M no par DRIP-BUSD. Até o fim do mês, o valor de liquidez chegou a $14,17M.
 
 ---
-## 2022
+### 2022
 
 **Parceria The Manor Farm:**
 [ The Manor Farm](https://themanor.farm) foi um protocolo de yield farming/empréstimo de 1º camada na BNB Chain. Essa parceria buscou criar oportunidades de staking para tokens DRIP-BUSD LP na The Manor Farm, rendendo tokens REV (posteriormente trocáveis por tokens da The Animal Farm). O staking de tokens DRIP-BUSD LP tinha uma taxa de 1%, que ia para a reserva de fundos da Faucet. The Manor Farm lançou dia 4 de Janeiro, e terminou suas emissões no dia 18 de Janeiro.
@@ -37,7 +37,7 @@ Uma semana antes do lançamento de DRIP Liberation & DRIP Garden no dia 16 de De
 
 
 ---
-## O que vem por aí?
+### O que vem por aí?
 **Competições entre equipes e atualizações no site:**
 Serão criadas competições semanais/mensais para equipes competirem por prêmios de acordo com crescimento ou outras métricas. Junto com essa funcionalidade, haverá uma atualização funcional e visual do site.
 

@@ -2,13 +2,13 @@
 label: Introduction
 order: -1
 icon: home
-description: An introduction to the DRIP Network and its main components -> Faucet, Reservoir, and Fountain.
+description: An introduction to the DRIP Network and its main components -> Faucet, Reservoir, and Fountain. See examples of interesting usages.
 ---
 
 # Introduction
 ---
 
-## What is the DRIP Network?
+### What is the DRIP Network?
 
 The DRIP Network is a deflationary daily yield project on the BNB Chain. It is comprised by the Faucet, Reservoir, and Fountain.
 
@@ -20,12 +20,12 @@ On the **Fountain** page, players can exchange between DRIP and BNB, using our n
 
 ---
 
-## What is the $DRIP token?
+### What is the $DRIP token?
 
 DRIP is the native token of our project. There’s a 10% tax charged on DRIP transactions (with some exceptions), which goes to the Faucet tax pool. The initial supply is 1 million DRIP tokens. In a situation where there’s not enough DRIP tokens in the tax pool to pay out Faucet rewards, new tokens will be minted to guarantee the rewards.
 
 ---
-## Usages
+### Usages
 Beyond being an investment opportunity for individuals, the DRIP Network's products can be used in a variety of interesting ways.
 
 **Audience monetization:**

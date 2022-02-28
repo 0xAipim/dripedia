@@ -2,7 +2,7 @@
 label: Team
 order: -5
 icon: people
-description: Learn about the team behind the DRIP Network. Find out more about all the projects of Forex Shark and BB.
+description: Learn about the team behind the DRIP Network. Find out more about all the projects of Forex Shark and BB. Watch previous interviews.
 ---
 
 # Team
@@ -36,3 +36,35 @@ Primary Developer of the DRIP Network.
 >Telegram: @BBbest123
 >
 >GitHub: https://github.com/CryptoKira
+
+---
+
+## Interviews
+
+[Interview with The BarterTown Conglomerate](https://www.youtube.com/watch?v=v99svXJ_FVY) (Feb 22, 2022)
+
+[Interview with Jack'sPassiveIncome](https://www.youtube.com/watch?v=6HZCINoFZBE) (Jan 28, 2022)
+
+[Interview with 0xArjay](https://www.youtube.com/watch?v=gqoJdUtwof0) (Jan 25, 2022)
+
+[Interview with Jooviers Gems](https://www.youtube.com/watch?v=JDW7kQKs7_E) (Jan 19, 2022)
+
+[Interview with Moonshot Hunters](https://www.youtube.com/watch?v=KN_N7-wyOiE) (Jan 18, 2022)
+
+[Interview with Crypto Talk & Crypto Mike](https://www.youtube.com/watch?v=z_ubLu477Mw) (Jan 17, 2022)
+
+[Interview about The Manor Farm to The Animal Farm transition](https://www.youtube.com/watch?v=LT5GFi-CN8Q) (Jan 13, 2022)
+
+[Interview with Jooviers Gems](https://www.youtube.com/watch?v=bX3TZJBYVEc) (Jan 3, 2022)
+
+[Interview about The Manor Farm presale](https://www.youtube.com/watch?v=ojUZXZwlVHw) (Oct 26, 2021)
+
+[Interview with GOSU TV](https://www.youtube.com/watch?v=zpHVU18TzQY) (Oct 21, 2021)
+
+[Interview with Alaktrician Man](https://www.youtube.com/watch?v=odNVW1ptyfo) (Oct 12, 2021)
+
+[Interview with The BarterTown Conglomerate](https://www.youtube.com/watch?v=uQNR7BcHZpg) (Oct 7, 2021)
+
+[Interview with GOSU TV](https://www.youtube.com/watch?v=rHtpoG-FrRc) (May 5, 2021)
+
+[Interview with The BarterTown Conglomerate](https://www.youtube.com/watch?v=q8SHLfXMzEU) (Apr 13, 2021)

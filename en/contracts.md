@@ -10,24 +10,26 @@ description: The official addresses for the tokens and contracts of the DRIP Net
 The official addresses for our tokens and contracts.
 
 ---
-## $DRIP
-The native currency of the DRIP Network. It has a 10% transaction tax that goes to supporting the Faucet's tax pool.
+### $DRIP
+The native currency of the DRIP Network. It has a 10% transaction tax that goes to supporting the Faucet's tax pool. The initial and current supply is 1 million DRIP tokens.
 
 > Token contract: [0x20f6...0333](https://bscscan.com/token/0x20f663cea80face82acdfa3aae6862d246ce0333)
 ---
-## $BR34P
+### $BR34P
 
-Token used in the DRIP Network as a requirement for receiving Faucet referral rewards. On every BR34P transaction it is charged a 1% fee that is distributed to every wallet holder based on their share of the total BR34P supply, and another 1% fee is sent to 0x000 wallet and automatically burned.
+Token used in the DRIP Network as a requirement for receiving Faucet referral rewards. On every BR34P transaction it is charged a 1% fee that is distributed to every wallet holder based on their share of the total BR34P supply, and another 1% fee is sent to 0x000 wallet and automatically burned. The initial supply was 1 million BR34P tokens.
 
 > Token contract: [0xa86d...8523](https://bscscan.com/token/0xa86d305a36cdb815af991834b46ad3d7fbb38523)
 >
 > Token website: https://br34p.finance
 >
+> Telegram: https://t.me/Br34P_Chat
+>
 > Github: https://github.com/br34p/
 
 ---
 
-## $DROP
+### $DROP
 
 The DRIP-BNB liquidity pair token used in the Reservoir.
 
@@ -35,7 +37,7 @@ The DRIP-BNB liquidity pair token used in the Reservoir.
 
 ---
 
-## DRIP-BUSD LP
+### DRIP-BUSD LP
 
 The DRIP-BUSD liquidity pair token on Pancake Swap. When creating or breaking this LP token, there's a 10% tax on the DRIP portion of the pair. To create this LP token tax free, players can use The Manor Farm's [DRIP Liberation](https://theanimal.farm/dripliberation) contract.
 
@@ -47,7 +49,7 @@ The DRIP-BUSD liquidity pair token on Pancake Swap. When creating or breaking th
 
 ---
 
-## DRIP-WBNB LP
+### DRIP-WBNB LP
 
 The DRIP-WBNB liquidity pair token on Pancake Swap. When creating or breaking this LP token, there's a 10% tax on the DRIP portion of the pair.
 
@@ -58,7 +60,7 @@ The DRIP-WBNB liquidity pair token on Pancake Swap. When creating or breaking th
 
 ---
 
-## DRIP Core Contracts
+### DRIP Core Contracts
 
 Addresses for the core contracts of the DRIP Network.
 
