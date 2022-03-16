@@ -11,6 +11,8 @@ description: DRIPedia is a documentation/wiki page for the DRIP Network explaini
 
 [!ref English](en/intro.md)
 
+[!ref Español](es/intro.md)
+
 [!ref Português](pt/intro.md)
 
 [!ref Deutsch](de/intro.md)

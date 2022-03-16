@@ -17,7 +17,7 @@ Token nativo da DRIP Network. Possui uma taxa de transação de 10% que vai para
 ---
 ### $BR34P
 
-Token usado na DRIP Network como exigência para receber recompensas por indicação na Faucet. Para cada transação do token BR34P é cobrado uma taxa de 1% que é distribuída entre todos os titulares de acordo com suas participações na quantidade total do token, e é cobrado também uma segunda taxa de 1% que é enviada para o endereço 0x000, automaticamente queimando os tokens. A quantidade inicial de tokens foi 1 milhão.
+Token usado na DRIP Network como exigência para receber recompensas por indicação na Faucet. Para cada transação do token BR34P é cobrado uma taxa de 1% que é distribuída entre todos os titulares de acordo com suas participações na quantidade total do token, e é cobrado também uma segunda taxa de 1% que é enviada para o endereço 0x000, automaticamente queimando os tokens. A quantidade inicial de tokens foi 100K.
 
 > Contrato do token: [0xa86d...8523](https://bscscan.com/token/0xa86d305a36cdb815af991834b46ad3d7fbb38523)
 >

@@ -17,7 +17,7 @@ The native currency of the DRIP Network. It has a 10% transaction tax that goes 
 ---
 ### $BR34P
 
-Token used in the DRIP Network as a requirement for receiving Faucet referral rewards. On every BR34P transaction it is charged a 1% fee that is distributed to every wallet holder based on their share of the total BR34P supply, and another 1% fee is sent to 0x000 wallet and automatically burned. The initial supply was 1 million BR34P tokens.
+Token used in the DRIP Network as a requirement for receiving Faucet referral rewards. On every BR34P transaction it is charged a 1% fee that is distributed to every wallet holder based on their share of the total BR34P supply, and another 1% fee is sent to 0x000 wallet and automatically burned. The initial supply was 100K BR34P tokens.
 
 > Token contract: [0xa86d...8523](https://bscscan.com/token/0xa86d305a36cdb815af991834b46ad3d7fbb38523)
 >

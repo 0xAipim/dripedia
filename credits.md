@@ -17,6 +17,9 @@ English and Portuguese · @o_aipim · 0xE07aaFF52FB1b7094ACbe68dfcC31C2B824dd6B5
 **:wave: DRIPinator:**
 German · @dripinator · 0x428a10825e3529D95dF8C5b841694318Ca95446f
 
+**:wave: Jonathan Gomez:**
+Spanish · @jonathanagc · 0x1d4271626043A7F186EF0dba5b36296F4a39E068
+
 ---
 
 ### The next steps for DRIPedia
@@ -25,8 +28,8 @@ German · @dripinator · 0x428a10825e3529D95dF8C5b841694318Ca95446f
 - [x] Add a DeFi glossary
 - [ ] Add a DRIP Garden page
 - [x] Add Portuguese translation
-- [ ] Add German translation
-- [ ] Add Spanish translation
+- [x] Add German translation
+- [x] Add Spanish translation
 - [ ] Add Japanese translation
 - [ ] Add translations in other languages
 
@@ -66,6 +69,9 @@ If you want to checkout how things will look like on the live website, you can d
 ---
 
 ### DRIPedia versions
+
+**v0.3:**
+Added new resources.
 
 **v0.2:**
 Added previous interviews to Team page, added translation guide to Credits, added additional tools and groups to Resources, added getting started guide and term glossary to the FAQ page.

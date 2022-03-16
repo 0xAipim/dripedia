@@ -62,8 +62,11 @@ Veja o status da sua conta, interaja com o contrato inteligente, e calcule ganho
 **[DRIP hydrate:](https://drip-hydrate.com)**
 Calcule o intervalo de hidratação que maximize seus rendimentos na Faucet.
 
-**[Calculadora de juros compostos de DRIP:](https://docs.google.com/spreadsheets/d/18A9dMrJv8a-ZKevK5_tvRdFKGK2QKp4PtEn7-Qwwias)**
+**[Calculadora de juros compostos de DRIP:](https://docs.google.com/spreadsheets/d/1HxWMR-wxjvDB3Ui1BQNMHK8yyGy4X3YHycsKwH-4bl8)**
 Projete seus ganhos futuros na Faucet com essa planilha.
+
+**[Drip Oracle:](https://driporacle.com/)**
+Veja o status da Faucet de múltiplas carteiras.
 
 **[DRIP Faucet scan:](https://drip-scan.netlify.app/faucet)**
 Veja o status da Faucet de múltiplas carteiras.
@@ -78,6 +81,9 @@ Interaja com os contratos de DRIP diretamente no seu computador.
 **[DRIP Garden schedule:](https://drip-scan.netlify.app/garden)**
 Veja a data e horário em que suas próximas colheitas/replantios estarão disponíveis.
 
+**[Dune Analytics Garden wallet analytics](https://dune.xyz/crypto586/GARDEN)**
+Veja gráficos da estratégia geral de plantio, status da sua conta, e mais.
+
 **[DRIP Garden viewer:](https://www.dripviewer.com)**
 Veja seu status e um gráfico do valor da recompensa por planta com esse bonito painel.
 
@@ -87,12 +93,24 @@ Veja o status do seu crescimento atual, seu status geral, status do contrato, e 
 **[DRIP Garden scanner:](https://drip-garden-scanner.netlify.app)**
 Veja o status do seu crescimento atual, seu status geral, status do contrato, e status de DRIP-BUSD LP.
 
+**[Drip Oracle:](https://driporacle.com/)**
+Veja o status da Garden de múltiplas carteiras.
+
+**[DripFi:](https://dripfi.app/garden/)**
+Veja, replante e colha.
+
 ---
 
 ### Ferramentas para The Animal Farm
 
 **[Yield farming info:](https://vfat.tools/bsc/theanimal)**
 Veja os rendimentos das pools, e interaja com os contratos.
+
+**[DripFi:](https://dripfi.app/animal-farm)**
+Veja e colha das suas pools da farm.
+
+**[Drip Oracle:](https://driporacle.com/animalfarm)**
+Veja suas pools da farm.
 
 ---
 

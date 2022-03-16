@@ -61,8 +61,11 @@ View your stats, interact with the smart contract, and calculate future earnings
 **[DRIP hydrate:](https://drip-hydrate.com)**
 Calculate the hydration interval to maximize Faucet APY.
 
-**[DRIP compounding calculator:](https://docs.google.com/spreadsheets/d/18A9dMrJv8a-ZKevK5_tvRdFKGK2QKp4PtEn7-Qwwias)**
+**[DRIP compounding calculator:](https://docs.google.com/spreadsheets/d/1HxWMR-wxjvDB3Ui1BQNMHK8yyGy4X3YHycsKwH-4bl8)**
 Project your Faucet earnings with this spreadsheet.
+
+**[Drip Oracle:](https://driporacle.com/)**
+View the Faucet status of multiple wallets.
 
 **[DRIP Faucet scan:](https://drip-scan.netlify.app/faucet)**
 View the Faucet status of multiple wallets.
@@ -77,6 +80,9 @@ Interact with DRIP contracts directly on your computer.
 **[DRIP Garden schedule:](https://drip-scan.netlify.app/garden)**
 View the date and time of when your next seed harvests/compounds will be available.
 
+**[Dune Analytics Garden wallet analytics](https://dune.xyz/crypto586/GARDEN)**
+View graphs of the overall plant strategy, stats for your account, and more.
+
 **[DRIP Garden viewer:](https://www.dripviewer.com)**
 View your stats and a chart on plant reward value with this beautiful dashboard.
 
@@ -86,12 +92,25 @@ View your currently growing status, your general stats, contract stats, and DRIP
 **[DRIP Garden scanner:](https://drip-garden-scanner.netlify.app)**
 View your currently growing status, your general stats, contract stats, and DRIP-BUSD LP stats.
 
+**[Drip Oracle:](https://driporacle.com/)**
+View the Garden status of multiple wallets.
+
+**[DripFi:](https://dripfi.app/garden/)**
+View, compound and harvest.
+
+
 ---
 
 ### Tools for The Animal Farm
 
 **[Yield farming info:](https://vfat.tools/bsc/theanimal/)**
 View the APR of the pools, and interact with the contracts.
+
+**[DripFi:](https://dripfi.app/animal-farm)**
+View and harvest from your farm pools.
+
+**[Drip Oracle:](https://driporacle.com/animalfarm)**
+View your farm pools.
 
 ---
 
