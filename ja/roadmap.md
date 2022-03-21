@@ -1,54 +1,55 @@
 ---
-label: Roadmap
+label: DRIPの今までとこれから
 order: -4
 icon: versions
-description: Roadmap of the DRIP Network, an overview of our achievements and of what is next. Find out about the BeeFarm Partnership, DRIP Liberation, DRIP Garden, The Manor Farm Partnership, The Animal Farm Partnership.
 ---
 
-# Roadmap
-An overview of our achievements and of what's next.
+# DRIPの今までとこれから
 
 ---
 
-## 2021
-**Official Launch:**
-On the 22nd of April, DRIP presale tokens were distributed, and the website and contracts were officially released.
+### 2021年
+**Official Launch:**　「BEE」
+2021年4月22日に誕生。 DRIPトークンの先行販売分が配布され、Webサイトとスマート・コントラクトが正式にスタート
 
-**BeeFarm Partnership:**
-[ BeeFarm](https://app.beefarm.finance) was a yield farming protocol on BNB Chain. This partnership created staking opportunities on BeeFarm for the following LP pairs: DRIP-BEE, DRIP-BUSD, DRIP-BNB. The staking reward was BEE, the native token of the farm.
-Before this partnership, the only liquidity for DRIP was on its native DEX. [According to Forex Shark](https://web.archive.org/web/20210629160630/https://forexshark.medium.com/history-in-the-making-2fbb4b3c44d1), this partnership seeked to add liquidity on Pancake Swap, allowing the project to have decentralized liquidity and appear on analytic sites.
-The pools were launched on the 13th of July, adding around $400K worth of liquidity to Pancake Swap DRIP pools on the first day.
+**BeeFarm とのパートナーシップ:**
+[ BeeFarm](https://app.beefarm.finance) とはBNBチェーン上のイールドファーミングプロトコルでした。このパートナーシップにより、BeeFarmにDRIP-BEE、DRIP-BUSD、DRIP-BNBの流動性ステーキングの機会が生まれました。ステーキングの報酬は、BeeFarmのネイティブトークン「BEE」でした。
+以前は、DRIPの流動性は**Fountain**のみでした。 [作成者は、](https://web.archive.org/web/20210629160630/https://forexshark.medium.com/history-in-the-making-2fbb4b3c44d1), このパートナーシップは、Pancake Swapに流動性を追加することを目的としており、プロジェクトが分散型の流動性を持ち、分析サイトに表示されるようにしました。
+流動性プールは7月13日にローンチされ、初日に約40万ドル（約4700万円）相当の流動性がPancake Swapに追加されました。
 
 **DRIP Liberation:**
-The [DRIP Liberation](https://theanimal.farm/dripliberation) contract allows players to acquire DRIP-BUSD LP tokens without paying the DRIP transaction tax. This contract acts as a DEX aggregator by buying DRIP on whichever DEX is providing the best price, after accounting for swap fees and price impact.
+[ DRIP Liberation](https://theanimal.farm/dripliberation)　  
+というスマートコントラクトにより、プレーヤーはDRIP取引手数料０％でDRIP-BUSD流動性トークンを購入できます。
 
 **DRIP Garden:**
-The [DRIP Garden](https://theanimal.farm/garden) is a "miner game", where players exchange their DRIP-BUSD LP tokens for plants at a varying rate. Plants generate seeds at a constant rate. Seeds can be planted (compounding deposits) or harvested: exchanged for DRIP-BUSD LP tokens at a varying rate (depends on the contract's balance). The variable exchange rates are set in a way to always make it attractive for new capital to join the project.
-One week before the launch of DRIP Liberation & DRIP Garden on the 16 of December, there was $1.52M worth of DRIP-BUSD liquidity on Pancake Swap. By the end of the month, the total liquidity was worth $14.17M.
+[ DRIP Garden](https://theanimal.farm/garden) というのは暗号投資収益ゲームのこと。プレイヤーがDRIP-BUSD流動性トークンを変動レートで「植物」と交換して、その「植物」を植えたら、「種」がで出来上がる。「植物」は植える（複利）又は収穫（DRIP-BUSD流動性トークンと交換）ということができます。変動為替レートは、新しい資本がプロジェクトに参加することを常に魅力的にするように設定されています。変動するレートによって後から参加希望の方にも魅力的になります。
+DRIP Liberation & DRIP Gardenがデビューした12月16日当時にPancake Swapには152万ドル（約1億8千万円）相当のDRIP-BUSD流動性がありましたが、月末当時に、流動性は1417万ドル（約16億円）の価値まで上がりました。
 
 ---
-## 2022
+### 2022年
 
-**The Manor Farm Partnership:**
-[ The Manor Farm](https://themanor.farm) was a layer 1 yield farming/lending protocol on BNB Chain. This partnership created staking opportunities for DRIP-BUSD tokens on The Manor Farm, yielding REV tokens (later exchangeable for Animal Farm tokens). Staking DRIP-BUSD tokens had a 1% fee, that went to funding the DRIP Faucet tax pool. The Manor Farm launched on the 4th of January, and ended its emissions on the 18th of January.
+**The Manor Farmとのパートナーシップ:**
+[ The Manor Farm](https://themanor.farm)とはBNBチェーン上のイールドファーミングプロトコルでした。 T
+このパートナーシップにより、DRIP-BUSDトークンのステーキングの機会が生まれました。配当トークンはREVでした。
 
-**The Animal Farm Partnership:**
-[ The Animal Farm](https://theanimal.farm) is a layer 2 yield farming/lending protocol on BNB Chain, and the successor of The Manor Farm. This partnership created the same staking opportunity as in The Manor Farm, except that the yield is in PIGS tokens (the project's governance token). The Animal Farm launched on the 3rd of February.
+**The Animal Farmとのパートナーシップ:**
+[ The Animal Farm](https://theanimal.farm)とはBNBチェーン上のイールドファーミングプロトコルで、The Manor Farmの完全版です。The Manor Farmと機能が一緒ですが, 配当トークンはPIGSトークン。2月3日にスタートしました。
 
 
 ---
-## What's next?
-**Team competitions and website updates:**
-Create weekly/monthly competitions for teams to compete for prizes on member growth or other metrics. Along with this feature, there will be a visual and functional update to the website.
+### これからの予定
 
-**Casino Partnership:**
-This partnership will add usage for the DRIP token in the partner casino. Details to be announced.
+**チーム競争とウェブサイト更新:**
+メンバーシップの増加やその他の指標に基づいたチーム競争システム。も近いうちにDRIPウエブサイトの更新もあります。
 
-**Trap and Hip Hop Artists NFTs:**
-Development of NFTs that are backed by DRIP. Details to be announced.
+**仮想通貨 「カジノ」とのパートナーシップ:**
+DRIPトークンが使用できるオンラインカジノゲーム。
 
-**Cross chain NFT protocol partnership:**
-Development a cross chain (BNB Chain and ETH Blockchain) NFT protocol, that would have utility on the DRIP Network and on the partner's platform.
+**トラップやヒップホップアーティストのNFT:**
+「準備通貨」として使用される様々な国際アーティストのNFT。
 
-**Access control API:**
-Development of APIs that allow Faucet team leaders to authenticate access according to team membership status, deposit amount, and other metrics. This would allow, for example, content creators to offer access to their exclusive content in return for people joining their DRIP Faucet team.
+**ブロックチェーン間NFTプロトコルパートナーシップ:**
+BNB／イーサリアムチェーン両方に使用できるNFTプロトコル。
+
+**アクセス・ コントロール API:**
+チームリーダーはチームメンバーのテータス、フォーセットの額、およびその他の情報などを確認できるAPI。 これによりコンテンツクリエーターはプレミアムコンテンツをDRIPチームメンバーにアクセス許可などもできます。

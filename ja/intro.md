@@ -1,40 +1,34 @@
 ---
-label: Introduction
+label: イントロダクション
 order: -1
 icon: home
-description: An introduction to the DRIP Network and its main components -> Faucet, Reservoir, and Fountain.
 ---
 
-# Introduction
+# イントロダクション
 ---
 
-## What is the DRIP Network?
+### DRIP Networkとは？
 
-The DRIP Network is a deflationary daily yield project on the BNB Chain. It is comprised by the Faucet, Reservoir, and Fountain.
+DRIP Networkとはバイナンススマートチェーン上の日常的に利益を得られるプロジェクトです。**Faucet**（フォーセット）、**Reservoir**（リザーバー）、**Fountain**（ファウンテン）で構成されています。
+**フォーセット**では、DRIPトークンを預入れること（以下、デポジット）により、プレーヤーは毎日１％の利益を得ることができます（デポジットの全量の365％が上限、および引出できる上限は10万DRIPトークン）。得られる収益はDRIPトークンの取引手数料から支払われます。引き出すこと（以下、クレーム）または毎日の利益を再投資すること（以下、コンパウンド）でも利益を生むことができます。
+**リザーバー**では、イールドファーミングに興味があるプレーヤーは、BNBをDRIP-BNBの流動性トークン（DROP）に変換することで、DRIPのDEX(分散型取引所) から手数料およびリザーバーの出入手数料で利益を得ることができます。
+**ファウンテン**ページ（SWAP）では、DRIPとBNBの交換ができます。ファウンテンでのDRIPトークン購入時の取引手数料は無料です。さらに、パンケーキスワップではDRIP-BUSD、DRIP-BNBプールが利用できます。　
 
-By locking DRIP tokens into the **Faucet**, players yield 1% daily returns (limited to 365% of total deposits and to 100K DRIP tokens). The paid out yield comes from the transaction taxes on the DRIP token. Generated yield can be withdrawn or recompounded for exponential daily yields.
-
-Players interested in yield farming can use the **Reservoir**, by depositing BNB which is transformed into a DRIP-BNB LP token (DROP), which earns rewards from swap fees on DRIP’s native DEX (decentralized exchange) and from Reservoir deposit and withdraw fees.
-
-On the **Fountain** page, players can exchange between DRIP and BNB, using our native DEX. The DRIP transaction tax for buying DRIP using Fountain is waived. Additionally, there are DRIP-BUSD and DRIP-WBNB pools available on Pancake Swap.
 
 ---
 
-## What is the $DRIP token?
+### DRIPトークンとは？
 
-DRIP is the native token of our project. There’s a 10% tax charged on DRIP transactions (with some exceptions), which goes to the Faucet tax pool. The initial supply is 1 million DRIP tokens. In a situation where there’s not enough DRIP tokens in the tax pool to pay out Faucet rewards, new tokens will be minted to guarantee the rewards.
+DRIPはDRIP Networkが構築したネイティブトークンです。取引の際には10％の手数料が課されており(例外あり) 、それらはフォーセットの取引手数料プールに溜められます。初回供給量は100万DRIPトークンです。もし取引手数料プールにフォーセットの利益を支払う十分なDRIPトークンがなくなった場合、利益を保障するためにDRIPトークンの鋳造できます。　
 
 ---
-## Usages
-Beyond being an investment opportunity for individuals, the DRIP Network's products can be used in a variety of interesting ways.
+### 使用法
 
-**Audience monetization:**
-Content creators/influencers can receive a stream of referral rewards by asking their audience to join their team in the DRIP Faucet. This dynamic also benefits the audience, who will receive the 1% daily yield on their deposits. Content creators can also send airdrops to their team, in order to give back and attract new team members.
 
-**Content monetization:**
-Referral rewards from the DRIP Faucet can be a great way to monetize content such as access to courses, private groups, and others. Tools to make this process seamless are under development.
+DRIP Networkは個々人の投資機会になるだけでなく、様々な活用方法があります。
 
-**Reserve currency:**
-By using DRIP as a reserve currency, other platforms can take advantage of our resilient and sustainable daily yields. An example of this could be NFTs backed by DRIP Faucet deposits, generating yield to its current owner and to its creator.  
+**オーディエンスマネタイゼーション**：コンテンツのクリエーター/インフルエンサーは、自身のフォロワーにフォーセット内の自分のチームに参加してもらうことで報酬を得ることができます。これによりフォロワーも日常的にデポジットの1％の利益を絵うことができます。クリエーターは、チームメンバーへの報酬や新規メンバーの勧誘のためにエアドロップを送ることができます。
 
-Learn about our next steps and partnerships by checking out our Roadmap.
+**コンテントマネタイゼーション**：フォーセットからの報酬は、知識や情報を得るためのコンテンツや、会員制グループへのアクセスを使って利益を得るのに最高の方法です。これらの機能はまだ発展途上にあり、今後さらなる発展が期待されます。
+
+**準備通貨**：DRIPをご自身の「準備通貨」として使用することにより、他のプロジェクトもDRIPの強靭で持続的な日常の利益を生むことができます。例えば、DRIPフォーセットの利益でDEFIプロジェクトを作ることなどもできます。

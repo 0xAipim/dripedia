@@ -1,25 +1,24 @@
 ---
-label: Team
+label: 制作チーム紹介と履歴
 order: -5
 icon: people
-description: Learn about the team behind the DRIP Network. Find out more about all the projects of Forex Shark and BB.
 ---
 
-# Team
+# 制作チーム紹介と履歴
 ---
-## Forex Shark
-Primary Developer of the DRIP Network.
-- Advised large development teams and handled their presale raises of tens of millions of dollars.
-- Developed [R34P](https://web.archive.org/web/20210626114433/https://r34p.finance/) (ERC20), a soft fork and 2º layer of the Reflect Finance project (Dec 2020).
-- Developed [Grim's Farm](https://web.archive.org/web/20210614122936/https://gr1m.finance/#/), a yield farming protocol on the ETH Blockchain designed to reward R34P liquidity providers (Jan 2021).
-- Developed [RAGE](https://web.archive.org/web/20210112172432/https://forexshark.medium.com/rage-first-ever-smart-auto-farming-protocol-55a2147d80cb) (ERC20), the third layer of development to R34P ecosystem (Jan 2021).
-- Developed [BR34P](https://br34p.finance) (BEP20), a BNB Chain fork of R34P (Feb 2021).
-- Developed [Rake Farm](https://farm.br34p.finance), a yield optimizer platform on BNB Chain that reached over $30M TVL (Feb 2021).
-- Developed [Silo](https://silo.br34p.finance), a noninflationary single asset staking platform for RAKE and BR34P (Mar 2021).
-- Developed [DRIP](https://drip.community) (Apr 2021).
-- Developed [DRIP Garden](https://theanimal.farm/garden) (Dec 2021).
-- Developed [The Manor Farm](https://themanor.farm), a layer 1 yield farming/lending protocol on BNB Chain, that reached over $70M TVL. Audited by [Paladin](https://paladinsec.co/projects/manorfarm/) and reviewed by [RucDoc](https://rugdoc.io/project/the-manor-farm/) (Jan 2022).
-- Developed [The Animal Farm](https://theanimal.farm), a layer 2 yield farming/lending protocol on BNB Chain, that reached over $300M TVL. Audited by [Paladin](https://paladinsec.co/projects/animal-farm/) and reviewed by [RugDoc](https://rugdoc.io/project/the-animal-farm/) (Feb 2022).
+### Forex Shark
+DRIP Networkの第1制作.
+- 大規模な開発チームに助言し、数千万ドルの販売前の管理を行いました。
+- [R34P](https://web.archive.org/web/20210626114433/https://r34p.finance/) (ERC20) というReflect Financeのレイヤー２プロジェクト制作。 (2020年12月).
+- [Grim's Farm](https://web.archive.org/web/20210614122936/https://gr1m.finance/#/), R34P流動性プロバイダーに報酬を与えるイーサリアムチェーンのイールドファーミングプロトコル制作。 (2021年1月).
+- [RAGE](https://web.archive.org/web/20210112172432/https://forexshark.medium.com/rage-first-ever-smart-auto-farming-protocol-55a2147d80cb) (ERC20), R34Pシステムのレイヤー３制作。 (2021年1月).
+- [BR34P](https://br34p.finance) (BEP20)、R34PのBNBチェーン版制作。 (2021年2月).
+- [Rake Farm](https://farm.br34p.finance)、BNBチェーン上のイールドオプティマイザープラットフォーム制作。 (2021年2月).
+- [Silo](https://silo.br34p.finance), RAKEおよびBR34Pの非インフレ的なステーキングプラットフォーム制作。 (2021年3月).
+- [DRIP](https://drip.community) 制作。(Apr 2021).
+- [DRIP Garden](https://theanimal.farm/garden) 制作。(2021年12月).
+- [The Manor Farm](https://themanor.farm)、BNBチェーン上のレイヤー１イールドファーミングおよび貸付プロトコル、制作。[Paladin](https://paladinsec.co/projects/manorfarm/) および[RucDoc](https://rugdoc.io/project/the-manor-farm/) により監査実行を行いました。(2022年1月).
+- [The Animal Farm](https://theanimal.farm), BNBチェーン上のレイヤー１イールドファーミングおよび貸付プロトコル、制作。3億ドル（300億円以上） の預かり資産まで上がりました。[Paladin](https://paladinsec.co/projects/animal-farm/)および[RugDoc](https://rugdoc.io/project/the-animal-farm/) により監査実行を行いました。(2022年2月).
 
 >Telegram: @Forex_Sh4rk
 >
@@ -31,7 +30,7 @@ Primary Developer of the DRIP Network.
 
 
 ---
-## BB
+### BB
 
 >Telegram: @BBbest123
 >

@@ -1,13 +1,12 @@
 ---
-label: Security Audits
+label: セキュリティ監査
 order: -8
 icon: codescan-checkmark
-description: Information about the security audits completed for the DRIP Network.
 ---
 
-# Security Audits
+# セキュリティ監査
 ---
-DRIP Network's smart contracts have been audited by [Slither](https://github.com/crytic/slither) a framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. [^1]
+DRIPのスマートコントラクトは [Slither](https://github.com/crytic/slither) によって監査実行を行いました。Slitherとは脆弱性検出器を実行し、契約の詳細に関する情報を出力し、分析を簡単に作成するためのAPIを提供するフレームワークのことです。 [^1]
 
 >Slither audit results:
 >https://dripcommunity.org/wp-content/uploads/2021/07/Slither-Technical-Audit-DRIP-Network-v7.pdf

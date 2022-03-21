@@ -7,7 +7,7 @@ description: Learn about the team behind the DRIP Network. Find out more about a
 
 # Team
 ---
-## Forex Shark
+### Forex Shark
 Primary Developer of the DRIP Network.
 - Advised large development teams and handled their presale raises of tens of millions of dollars.
 - Developed [R34P](https://web.archive.org/web/20210626114433/https://r34p.finance/) (ERC20), a soft fork and 2º layer of the Reflect Finance project (Dec 2020).
@@ -31,7 +31,7 @@ Primary Developer of the DRIP Network.
 
 
 ---
-## BB
+### BB
 
 >Telegram: @BBbest123
 >
@@ -39,7 +39,7 @@ Primary Developer of the DRIP Network.
 
 ---
 
-## Interviews
+### Interviews
 
 [Interview with The BarterTown Conglomerate](https://www.youtube.com/watch?v=v99svXJ_FVY) (Feb 22, 2022)
 

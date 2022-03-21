@@ -1,62 +1,60 @@
 ---
-label: Faucet
+label: フォーセット (Faucet)
 order: -2
 icon: verified
-description: DRIP Faucet is a low-risk high-reward contract that operates similarly to a certificate of deposit investment. Learn about how it works, including the referral system, and the whale tax.
 ---
 
-# Faucet
-A low-risk high-reward contract that operates similarly to a certificate of deposit investment.
+# フォーセット
+譲渡性預金と似たようなかたちで運営される、ローリスクハイリターンなスマートコントラクトです。
 
 ---
-## How does it work?
+### どんな仕組み？
 
-Players can participate in the Faucet by depositing DRIP tokens into it. Deposited DRIP tokens are permanently sent to the Faucet tax pool and cannot by redeemed by the player. The Faucet yields 1% daily rewards (in DRIP) of total deposits, with a max payout of 365% of total deposit amount or 100K DRIP tokens (whichever is smaller).
-
-The 1% daily rewards come from the Faucet tax pool, which is funded by DRIP Faucet deposits and DRIP token transaction taxes. If there’s ever a situation where there aren't not enough DRIP tokens in the Faucet tax pool to pay out Faucet rewards, new DRIP tokens will be minted to ensure rewards are paid out. Given the game theory behind the project, the probability that new DRIP tokens will be minted is extremely low.
+プレーヤーはフォーセットにDRIPトークンをデポジットすることで利用可能となります。デポジットされたDRIPトークンは永続的にフォーセットの取引手数料プールに送られ、戻すことはできません。フォーセットではデポジットしているDRIPトークン全量の1％を利益として得ることができます（デポジットしている全量の365％が上限、および引出できる上限は10万DRIPトークン）
+毎日の１％の利益は、DRIPトークンの取引手数料プールから支払われます。取引手数料プールにフォーセットの利益を支払う十分なDRIPトークンがなくなった場合、利益を保障するためにDRIPトークンの鋳造が可能です。しかし、DRIP Networkはゲーム理論をもとにしているため、新しいDRIPトークンが鋳造される見込みは非常に低いと言えます
 
 ---
-##  Actions
+### 手続き
 
-**Deposit:**
-Deposits DRIP tokens from your wallet into the Faucet contract. There’s a minimum deposit amount of 1 DRIP. Also, there's a 10% tax for depositing DRIP into the Faucet.
+**デポジット：**
+ご自身のウォレットからDRIPトークンをフォーセットに預け入れること。デポジットの最小単位は１DRIPであり、デポジットには10％の手数料がかかります
 
-**Hydrate:**
-Redeposits your available Faucet rewards back into the Faucet. There’s a 5% tax for hydrating DRIP Faucet rewards. Hydrating allows players to increase their daily earnings, by increasing their total deposits into the Faucet. Frequent hydrating generates exponential daily rewards.
+**ハイドレート：**
+フォーセットで得た利益を再びフォーセットにデポジットすること。5％の手数料がかかります。頻繁にハイドレートすることにより、プレーヤーはデポジットしているDRIPの総量増加ができ、それにより毎日の利益を増やすことができます
 
-**Claim:**
-Withdraws your available DRIP Faucet rewards into your wallet. There is a 10% tax for claiming DRIP Faucet rewards.
+**クレーム：**
+フォーセット内にある利益をクレームし、ご自身のウォレットに入れること。10％の手数料がかかります
 
-**Airdrops:**
-Airdrops DRIP tokens from your wallet directly to another player’s Faucet deposits. There is a 10% tax on sending DRIP Faucet airdrops.
-Sending airdrops can help ensure that your account has a positive net deposit status, as well as being a great tool for giving back to your team and attract new members.
+**エアドロップ：**
+DRIPトークンをご自身のウォレットから直接他のプレーヤーのフォーセットに送ること。これには10％の手数料がかかります。エアドロップをすることにより、ご自身のアカウントがプラスであることを保証するとともに、チームメンバーへの報酬を送ったり、新しいメンバーを勧誘するのにも優れた手段です。
 
 
-| Transaction | Tax |
+| 手続き | 手数料 |
 |:---:|:---:|
-| Faucet deposit | 10% |
-| Faucet withdraw | 10% |
-| Faucet hydrate (recompound) | 5% |
-| Sending airdrop | 10% |
+| デポジット | 10% |
+| クレーム | 10% |
+| ハイドレート (複利) | 5% |
+| エアドロップ | 10% |
 
 ---
 
-## Teams and Referrals
+### チームと報酬
 
-Before a player can deposit into the Faucet, they will have to join another person’s team by inputting the person’s wallet address into the Buddy Referral System. This buddy (team leader) must already be active in the Faucet (have a Faucet deposit) and have 14 or less people above them (there's a limit of 15 levels). It is not possible to change teams.
+プレーヤーはフォーセットにデポジットする前に、BUDDY報酬システムのBUDDYとなるプレーヤーのウォレットを登録してチームに参加する必要があります。チームリーダーであるBUDDYはフォーセットにデポジットがあること、そしてチームメンバーが14階層以下であることが求められます（チームメンバーは最大15階層まで）。一度登録したチームを変更することはできません。
 
-Player’s aren’t required to develop teams under them, and will still earn Faucet rewards regardless of their team size.
+プレーヤーは自身のチームを構築することは求められませんし、チームのサイズに関係なく報酬を得ることができます。
 
-With the goal of promoting the growth of the platform, DRIP Network has implemented a referral system. This system seeks to fairly reward players for their work in helping expand the reach of the DRIP Network.
+報酬システムの成長促進のゴールは、このシステムによりDRIP Networkの拡大に貢献したプレーヤーが公平に報酬を得られる構造を実現することです。
 
-The amount of the referral reward is 10% of the deposited amount (after deposit taxes), or 5% of the hydrated amount (after hydrate taxes). Received referral rewards are send to one's Faucet deposits.
+報酬の総額は、デポジットの総量（取引手数料を除く）の10％、またはハイドレートの総量（取引手数料を除く）の5％です。報酬の総額は
 
-Requirements to receive referral rewards from your downlines:
--   Hold the required BR34P token amount in your wallet (see table bellow)
--   Have a positive net deposit status: (Faucet deposits + Faucet hydrations + Airdrops sent) > (Faucet withdraws)
+チームの下層メンバーから報酬を得るための必要条件：
+●ウォレットに必要分量のBR34P（ビーリープ）を保有していること（下記の表参照）
+●デポジットがプラスであること（フォーセットのデポジット+ハイドレート+エアドロップ）＞（フォーセットのクレーム）
 
 
-| Downlines accessible | BR34P in Wallet Requirement |
+
+| 報酬階層  | 必要なBR34P |
 |:---:|:---:|
 | 1 | 2 |
 | 2 | 3 |
@@ -75,41 +73,37 @@ Requirements to receive referral rewards from your downlines:
 | 15 | 1597 |
 
 
-If these conditions aren’t met, the next person upline will have their eligibility checked, successively until an eligible player can be selected to receive the rewards.
+もし１階層上のプレーヤーがこれらの条件を満たしていない場合、条件を満たすプレーヤーが選ばれ報酬を得ることができます。
+選ばれたプレーヤーのチームにおいて、直接のメンバーが５人以下である場合、選ばれたプレーヤーは100％の報酬を得ます。また、直接のメンバーが5人以上の場合、報酬の75％を得るとともに、デポジット/ハイドレートに対し報酬の25％を得ることができます。
 
-If the selected player’s team has less than 5 direct members, the selected player will receive 100% of the reward.
-If the selected player's team has more than 5 direct members, the selected player will receive 75% of the reward, and the person who is depositing/hydrating will receive 25% of the reward.
 
-| Selected player's team size | Selected player's reward | Depositing player's reward |
+
+| チーム人数 | チームリーダーの報酬 | プレーヤーの報酬 |
 |:---:|:---:|:---:|
 | < 5 | 100% | 0% |
 | ≥ 5 | 75% | 25% |
 
 !!!primary
-Referral reward tokens received by the [dev wallet](https://bscscan.com/address/0xe8e9720e39e13854657c165cf4eb10b2dfe33570) will be used as a promotional tool to help the growth of the platform. For example: team competition rewards, being burned, etc. These tokens won't be dumped on the market.
+[dev wallet](https://bscscan.com/address/0xe8e9720e39e13854657c165cf4eb10b2dfe33570) （アプリ上の初期ウォレット）が受け取る報酬は、チーム対抗戦の報酬やバーン（焼却）といった、プラットフォームの成長を助けるプロモーションツールとして使用されます。
 !!!
 
-To better explain how the referral system works, let's take a look at an example illustrated by the image bellow:
+報酬システムのわかりやすい例として、下記の図を見てみましょう：
 
 ![Illustration of the following referral tree: Dev wallet (5 direct team members, 1600 BR34P) → Alicia (2 direct team members, 10 BR34P) → Bruno (1 direct team members, 0 BR34P) → Chang (3 direct team members, 2 BR34P) → Diana (0 direct team members, 0 BR34P).](/static/banner_faucet_referral.jpg)
 
-Whenever Diana (rightmost of image) deposits or hydrates, a wallet on her upline will receive a reward (a percentage of the amount deposited or hydrated).
-
-The 1º time that Diana makes a deposit, the reward will go to the person **1 level** above her (if the account is eligible), in this case Chang. Chang will receive the rewards because he holds enough BR34P tokens in his wallet to reach 1 downline, and has a positive net deposit status.
-
-The 2º time that Diana deposits or hydrates, the reward will go to the person **2 levels** above her, in this case Bruno. Bruno is ineligible to receive this reward because he doesn't have enough BR34P tokens in his wallet to reach 2 downlines. Since Bruno is ineligible to receive the reward, the reward will go to the next person upline, Alicia, who is **3 levels** above Diana. Alicia will receive the reward because she holds enough BR34P tokens in her wallet to reach 3 downlines and has a positive net deposit status.
-
-The 3º time that Diana deposits or hydrates, the reward will go to the person **4 levels** above her, the dev wallet. The dev wallet is eligible and will receive the rewards.
-
-Since there's no account above the dev wallet, the reward level will reset to level 1. So next time Diana deposits or hydrates, the cycle restarts with Chang receiving the reward if he's eligible.
+一番右側にいるDianaさんがデポジットもしくはハイドレートをした時はいつでも、Dianaさんの上層にいるプレーヤーが何％かの報酬を得ることができます。
+１回目にDianaさんがデポジットした時、1階層上のプレーヤー（Changさん）が報酬を得ることができます。Changさんはウォレットに１階層下から報酬を得る十分量のBR34Pを保有しており、デポジットがプラスであることからこれに該当します。
+２回目にDianaさんがデポジットもしくはハイドレートをした時、２階層上のプレーヤー（Brunoさん）が報酬を得ることができます。しかしBrunoさんは２階層下からの報酬を得るための十分なBR34Pを保有していないので報酬を得る資格がありません。この場合、報酬はDianaさんの３階層上に移行し、Aliciaさんに移ります。Aliciaさんはウォレットに３階層下から報酬を得る十分量のBR34Pを保有しており、デポジットがプラスなのでDianaさんから報酬を得ることができます。
+３回目にDianaさんがデポジットもしくはハイドレードをした時、報酬はDianaさんの４階層上であるdev walletにいきます。
+Dev walletより上層にはアカウントがないので、次回Dianaさんがデポジットもしくはハイドレードをした場合は循環の最初に戻り、Changさんが報酬を受け取ります。
 
 ---
 
-## Whale Tax
+### ホエールタックス
 
-In order to maintain the sustainability of the project, an additional tax on Faucet withdraws is applied on players according to the sum of their **total withdraws + available Faucet rewards** in relation to the total supply of DRIP tokens.
+プロジェクトの継続性を維持するため、クレームの追加手数料は、**クレームの総量+ 現在クレーム出来る分**に基づいて計算されます。
 
-| % of total DRIP supply | Tax |
+| DRIP供給量の％ | 追加手数料 |
 |:---:|:---:|
 | < 0.99% | 0% |
 | ≥ 1% | 5% |

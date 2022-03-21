@@ -17,4 +17,4 @@ description: DRIPedia is a documentation/wiki page for the DRIP Network explaini
 
 [!ref Deutsch](de/intro.md)
 
-<!-- [!ref 日本語](ja/intro.md) -->
+[!ref 日本語](ja/intro.md)

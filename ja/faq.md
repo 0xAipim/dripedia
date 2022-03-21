@@ -1,37 +1,100 @@
 ---
-label: F.A.Q.
+label: よくある質問
 order: -9
 icon: question
-description: Answers to some of the most common questions about the DRIP Network, such as What are the risks involved in participating into the DRIP Network?, Is the DRIP Network a Pyramid Scheme?, Was DRIP inspired in any projects?
 ---
 
-# Frequently Asked Questions
----
-## What are the risks involved in participating into the DRIP Network?
-**Economic risks:**
-Just like any financial asset, the price of the DRIP token is subject to volatility.
-There's the possibility of new DRIP being minted to pay out Faucet rewards if the tax pool doesn't have enough funds to do so, which would cause inflation.
-
-**How these economic risks are mitigated:**
-The game theory behind the project seeks to align the players' incentives towards actions that promote platform sustainability. This is done through a 10% tax on all transactions, with positive actions (such as buying DRIP and compounding Faucet rewards) receiving tax discounts or exemptions.
-When DRIP is deposited into the Faucet it is removed from circulation. This reduces the available supply for at least 100 days. For players that compound their gains, the available supply is reduced for an even longer period of time. Whale taxes and the 100K DRIP max withdraw amount prevent big players from draining the project, making them reinvest to continue receiving yield. Reservoir deposits and withdraws create an ever growing permanently locked liquidity, leading to an ever growing price floor.
-
-**Cyber-security risks:**
-Smart contracts are at risk of having exploits that lead to loss of funds.
-DRIP Network's smart contracts have been audited by Slither, a Solidity static analysis framework.
+# よくある質問
 
 ---
-## Is the DRIP Network a Pyramid Scheme?
-Pyramid schemes are systems where players in the higher levels get a larger commission, as the majority of the profits are funneled to a few at the top. This is usually hidden behind the sale of products or services that produce almost no profit in themselves.
+### どうやって始めるのか？
 
-The DRIP Network operates fully on chain. Its smart contracts are open-source, and all transactions with them are publicly available. The sources of the funds and the status of the project can be viewed by anyone, at anytime (using tools like BscScan).
+**1 - ウォレットを作成:**
+ブロックチェーン上のスマートコントラクトとやり取りするにはウォレットが必要です。 [Download MetaMask](https://metamask.io). BNBチェーンと連携するようにMetaMaskを構成します。[リンク](https://academy.binance.com/ja/articles/connecting-metamask-to-binance-smart-chain).
 
-Players using the Faucet don't have to engage in team building if they don't want to, and will still continue to receive their Faucet rewards.
-Referral rewards are a bonus that fairly compensates players for helping expand the project and attract new players and capital. This reward is given during deposits, only goes to one player at a time, and has several eligibility requirements.
-There's a max payout of 100k DRIP, meaning senior players will eventually have to create a new wallet to continue receiving Faucet rewards, and onboard other new players to continue receiving referral rewards. This means there's a limited advantage to getting in early.
+**2 - ウォレットにBNBを追加:**
+取引手数料を支払い、DRIPトークンを購入するには、ウォレットにBNBが必要です。Binance、Crypto.com、CoinEx、Coinbaseなどの取引所でBNBを購入できます。 BNBを購入し、Binanceスマートチェーンを使用してBNBをウォレットアドレスに送信します。
 
-All of this means players who enter the system later can make just as much or more than the initial wallets who entered the project, and there is no benefit to getting in early as far as how the team building structure goes. This is the opposite of a pyramid scheme. We are just a DeFi project that benefits people for onboarding capital in a fair and ingenious way.
+Transakなどのサービスでクレジットカードでも購入できます。
+
+**3 -  DRIPを購入:**
+ファウンテンまたはPancakeSwapにてDRIPトークンを購入します。
 
 ---
-## Was DRIP inspired in any projects?
-DRIP took inspiration from the BankRoll Flow, a project on TRON.
+### 用語集
+
+**BNB Chain:**
+スマートコントラクトを実行できるブロックチェーン。旧名バイナンススマートチェーン。 [リンク](https://academy.binance.com/ja/articles/an-introduction-to-binance-smart-chain-bsc).
+
+**スマートコントラクト:**
+コードの条件に従ってイベントとアクションを自動的に実行、制御、または文書化することを目的としたコンピュータープログラム。[リンク](https://academy.binance.com/ja/articles/what-are-smart-contracts).
+
+**ウォレットアドレス:**
+暗号通貨をに送信し、ブロックチェーントランザクションを検証するために使用できる一連の数字と文字。[リンク](https://academy.binance.com/ja/articles/crypto-wallet-types-explained).
+
+**コントラクトアドレス:**
+スマートコントラクトがブロックチェーンに保存されているアドレス。
+
+**BEP20:**
+トークンの使用方法、使用者、および使用規則を定義するBNBチェーンのトークン標準。 [リンク](https://academy.binance.com/en/glossary/bep-20).
+
+**ERC20:**
+トークンの使用方法、使用者、および使用規則を定義するイーサリアムブロックチェーンのトークン標準。 [リンク](https://academy.binance.com/ja/articles/an-introduction-to-erc-20-tokens).
+
+**BNB:**
+BNBチェーンのネイティブトークン。 BNBチェーンでの取引手数料の支払いに使用されます。 [リンク](https://academy.binance.com/ja/articles/what-is-bnb).
+
+**WBNB:**
+「ラップ」されたBNB。これは、BNBのBEP20互換バージョンです。 BNBと1対1で交換可能。[リンク](https://www.bnbchain.world/en/blog/what-is-wbnb/).
+
+**イールドファーミング:**
+暗号資産を貸して利益を得る仕組み。[リンク](https://academy.binance.com/ja/articles/what-is-yield-farming-in-decentralized-finance-defi).
+
+**ステーキング:**
+暗号資産を保有しブロックチェーンのネットワークに参加することで、対価として報酬が貰える仕組み。 [リンク](https://academy.binance.com/ja/articles/what-is-staking).
+
+**エアドロップ:**
+企業や取引所などが資金調達のためにトークンを無料で配る。 [リンク](https://www.coindesk.com/learn/what-is-a-crypto-airdrop/).
+
+**流動性プール:**
+分散型取引を可能にするスマートコントラクトの資金。 [リンクe](https://academy.binance.com/ja/articles/what-are-liquidity-pools-in-defi).
+
+**LPトークン:**
+流動性トークン。プール内のシェアを表す流動性プロバイダーに発行されたトークン。
+
+**Permanently locked liquidity:**
+流動性プールに恒久的にロックされている流動性トークン。
+
+**DEX:**
+分散型取引所のこと。 [リンク](https://academy.binance.com/ja/articles/what-is-a-decentralized-exchange-dex).
+
+**パンケーキ・スワップ:**
+BNBチェーンにある分散型取引所[リンク](https://academy.binance.com/ja/articles/a-guide-to-pancakeswap).
+
+---
+### DRIP Networkの参加にはどういうリスクがありますか？
+**経済的リスク:**
+他の金融資産と同じように、 DRIPトークンの価格は変動することがあります。フォーセットの利益を支払う十分なDRIPトークンがなくなった場合、DRIPトークンの鋳造が可能性があります。これによってDRIPインフレの可能性もあります。
+
+
+**リスクはどのように軽減しますか？:**
+DRIPのゲーム理論は、行動がDRIPの持続性を促進するプレイヤーに報酬を与えます。 これは、すべての取引に対して10％の手数料で行われます。 積極的な行動（DRIPの購入やフォーセットの報酬の複利など）で、手数料の割引を受けます。
+DRIPはフォーセットに預入すると流通から削除されます。これにより、循環供給が100日間減少します。 利益を複合することにより、循環供給はさらに長期間減少します。ホエールタックス、10万DRIPトークン上限が資金の流出を防ぎ、したがって再投資を促進します。リザーバーの預入と引き出しにより、ロックされた流動性も増え続け、DRIPの価格が守られます。
+
+**サイバーセキュリティ :**
+スマートコントラクトは、資金の損失につながる可能性のあるエクスプロイトのリスクにさらされています。
+SlitherによってDRIPネットワークのスマートコントラクトが監査されました。
+
+---
+### DRIPネットワークはネズミ講ですか?
+ネズミ講は、より高いレベルの者がより大きな利益を得るシステムです。これは通常、ほとんど利益を生み出さない製品やサービスの販売に隠されています。
+
+DRIP Networkスマートコントラクトはブロックチェーン上に存在し、オープンソースであり、すべての手続き履歴は公開されています。BscScanなどのツールを使用して資金源とプロジェクトの状況は誰でも見ることができます。
+
+フォーセットを使用しているプレイヤーはチーム作りを行わなくてもフォーセットの報酬を受け取れます。
+紹介報酬は、プロジェクトを拡大し、新しいプレーヤーと資本を引き付けるのに役立つプレーヤーを公平に補償するボーナスです。報酬は預入時に与えられ、一度に1人のプレイヤーにのみ与えられ、資格要件があります。
+フォーセットの報酬上限は10万DRIPトークンである為, プレイヤーは、報酬を受け取り続けるために、最終的に新しいウォレットを作成する必要があります。正に、ネズミ講の反対になります。
+
+---
+### DRIPは他ののプロジェクトにも影響を受けましたか？
+DRIPはBankRoll FlowというTRONブロックチェーンのソフトフォークです。
