@@ -35,8 +35,8 @@ Sending airdrops can help ensure that your account has a positive net deposit st
 | Transaction | Tax |
 |:---:|:---:|
 | Faucet deposit | 10% |
-| Faucet withdraw | 10% |
 | Faucet hydrate (recompound) | 5% |
+| Faucet withdraw | 10% |
 | Sending airdrop | 10% |
 
 ---

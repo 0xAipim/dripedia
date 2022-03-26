@@ -33,11 +33,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/static/droplet.png" rel="icon" />
-    <link href="/resources/css/retype.css?v=2.0.701181799312" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.0.701633472033" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.0.701181799312" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.0.701633472033" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.0" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.0.701181799312" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.0.701633472033" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -172,8 +172,8 @@
         <span>どんな仕組み？</span>
     </h3>
 </doc-anchor-target>
-<p>プレーヤーはフォーセットにDRIPトークンをデポジットすることで利用可能となります。デポジットされたDRIPトークンは永続的にフォーセットの取引手数料プールに送られ、戻すことはできません。フォーセットではデポジットしているDRIPトークン全量の1％を利益として得ることができます（デポジットしている全量の365％が上限、および引出できる上限は10万DRIPトークン）
-毎日の１％の利益は、DRIPトークンの取引手数料プールから支払われます。取引手数料プールにフォーセットの利益を支払う十分なDRIPトークンがなくなった場合、利益を保障するためにDRIPトークンの鋳造が可能です。しかし、DRIP Networkはゲーム理論をもとにしているため、新しいDRIPトークンが鋳造される見込みは非常に低いと言えます</p>
+<p>プレーヤーはフォーセットにDRIPトークンをデポジットすることで利用可能となります。デポジットされたDRIPトークンは永続的にフォーセットの取引手数料プールに送られ、戻すことはできません。フォーセットではデポジットしているDRIPトークン全量の1％を利益として得ることができます（デポジットしている全量の365％が上限、および引出できる上限は10万DRIPトークン）。</p>
+<p>毎日の１％の利益は、DRIPトークンの取引手数料プールから支払われます。取引手数料プールにフォーセットの利益を支払う十分なDRIPトークンがなくなった場合、利益を保障するためにDRIPトークンの鋳造が可能です。しかし、DRIP Networkはゲーム理論をもとにしているため、新しいDRIPトークンが鋳造される見込みは非常に低いと言えます。</p>
 <hr />
 <doc-anchor-target id="手続き">
     <h3>
@@ -182,11 +182,11 @@
     </h3>
 </doc-anchor-target>
 <p><strong>デポジット：</strong>
-ご自身のウォレットからDRIPトークンをフォーセットに預け入れること。デポジットの最小単位は１DRIPであり、デポジットには10％の手数料がかかります</p>
+ご自身のウォレットからDRIPトークンをフォーセットに預け入れること。デポジットの最小単位は１DRIPであり、デポジットには10％の手数料がかかります。</p>
 <p><strong>ハイドレート：</strong>
-フォーセットで得た利益を再びフォーセットにデポジットすること。5％の手数料がかかります。頻繁にハイドレートすることにより、プレーヤーはデポジットしているDRIPの総量増加ができ、それにより毎日の利益を増やすことができます</p>
+フォーセットで得た利益を再びフォーセットにデポジットすること。5％の手数料がかかります。頻繁にハイドレートすることにより、プレーヤーはデポジットしているDRIPの総量増加ができ、それにより毎日の利益を増やすことができます。</p>
 <p><strong>クレーム：</strong>
-フォーセット内にある利益をクレームし、ご自身のウォレットに入れること。10％の手数料がかかります</p>
+フォーセット内にある利益をクレームし、ご自身のウォレットに入れること。10％の手数料がかかります。</p>
 <p><strong>エアドロップ：</strong>
 DRIPトークンをご自身のウォレットから直接他のプレーヤーのフォーセットに送ること。これには10％の手数料がかかります。エアドロップをすることにより、ご自身のアカウントがプラスであることを保証するとともに、チームメンバーへの報酬を送ったり、新しいメンバーを勧誘するのにも優れた手段です。</p>
 <div class="table-wrapper scrollbar overflow-hidden">
@@ -203,12 +203,12 @@ DRIPトークンをご自身のウォレットから直接他のプレーヤー�
 <td style="text-align: center;">10%</td>
 </tr>
 <tr>
-<td style="text-align: center;">クレーム</td>
-<td style="text-align: center;">10%</td>
-</tr>
-<tr>
 <td style="text-align: center;">ハイドレート (複利)</td>
 <td style="text-align: center;">5%</td>
+</tr>
+<tr>
+<td style="text-align: center;">クレーム</td>
+<td style="text-align: center;">10%</td>
 </tr>
 <tr>
 <td style="text-align: center;">エアドロップ</td>
@@ -228,9 +228,11 @@ DRIPトークンをご自身のウォレットから直接他のプレーヤー�
 <p>プレーヤーは自身のチームを構築することは求められませんし、チームのサイズに関係なく報酬を得ることができます。</p>
 <p>報酬システムの成長促進のゴールは、このシステムによりDRIP Networkの拡大に貢献したプレーヤーが公平に報酬を得られる構造を実現することです。</p>
 <p>報酬の総額は、デポジットの総量（取引手数料を除く）の10％、またはハイドレートの総量（取引手数料を除く）の5％です。報酬の総額は</p>
-<p>チームの下層メンバーから報酬を得るための必要条件：
-●ウォレットに必要分量のBR34P（ビーリープ）を保有していること（下記の表参照）
-●デポジットがプラスであること（フォーセットのデポジット+ハイドレート+エアドロップ）＞（フォーセットのクレーム）</p>
+<p>チームの下層メンバーから報酬を得るための必要条件：</p>
+<ul>
+<li>ウォレットに必要分量のBR34P（ビーリープ）を保有していること（下記の表参照）</li>
+<li>デポジットがプラスであること（フォーセットのデポジット+ハイドレート+エアドロップ）＞（フォーセットのクレーム）</li>
+</ul>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -303,8 +305,8 @@ DRIPトークンをご自身のウォレットから直接他のプレーヤー�
 </tbody>
 </table>
 </div>
-<p>もし１階層上のプレーヤーがこれらの条件を満たしていない場合、条件を満たすプレーヤーが選ばれ報酬を得ることができます。
-選ばれたプレーヤーのチームにおいて、直接のメンバーが５人以下である場合、選ばれたプレーヤーは100％の報酬を得ます。また、直接のメンバーが5人以上の場合、報酬の75％を得るとともに、デポジット/ハイドレートに対し報酬の25％を得ることができます。</p>
+<p>もし１階層上のプレーヤーがこれらの条件を満たしていない場合、条件を満たすプレーヤーが選ばれ報酬を得ることができます。</p>
+<p>選ばれたプレーヤーのチームにおいて、直接のメンバーが５人以下である場合、選ばれたプレーヤーは100％の報酬を得ます。また、直接のメンバーが5人以上の場合、報酬の75％を得るとともに、デポジット/ハイドレートに対し報酬の25％を得ることができます。</p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -341,21 +343,21 @@ DRIPトークンをご自身のウォレットから直接他のプレーヤー�
             </svg>
         </div>
         <div class="pr-5 ml-3 w-full">
-<p><a href="https://bscscan.com/address/0xe8e9720e39e13854657c165cf4eb10b2dfe33570">dev wallet</a> （アプリ上の初期ウォレット）が受け取る報酬は、チーム対抗戦の報酬やバーン（焼却）といった、プラットフォームの成長を助けるプロモーションツールとして使用されます。</p>
+<p><a href="https://bscscan.com/address/0xe8e9720e39e13854657c165cf4eb10b2dfe33570">Dev wallet</a> （アプリ上の初期ウォレット）が受け取る報酬は、チーム対抗戦の報酬やバーン（焼却）といった、プラットフォームの成長を助けるプロモーションツールとして使用されます。</p>
         </div>
     </div>
 </div>
 <p>報酬システムのわかりやすい例として、下記の図を見てみましょう：</p>
 <p><figure class="content-center">
-    <img src="/static/banner_faucet_referral.jpg" alt="Illustration of the following referral tree: Dev wallet (5 direct team members, 1600 BR34P) → Alicia (2 direct team members, 10 BR34P) → Bruno (1 direct team members, 0 BR34P) → Chang (3 direct team members, 2 BR34P) → Diana (0 direct team members, 0 BR34P)." />
-    <figcaption class="caption">Illustration of the following referral tree: Dev wallet (5 direct team members, 1600 BR34P) → Alicia (2 direct team members, 10 BR34P) → Bruno (1 direct team members, 0 BR34P) → Chang (3 direct team members, 2 BR34P) → Diana (0 direct team members, 0 BR34P).</figcaption>
+    <img src="/static/banner_faucet_referral.jpg" alt="上記のチーム報酬システム図: Dev wallet (チームメンバー5人、 1600 BR34P) → Alicia (チームメンバー2人、10 BR34P) → Bruno (チームメンバー1人、0 BR34P) → Chang (チームメンバー3人、2 BR34P) → Diana (チームメンバー0人、0 BR34P)." />
+    <figcaption class="caption">上記のチーム報酬システム図: Dev wallet (チームメンバー5人、 1600 BR34P) → Alicia (チームメンバー2人、10 BR34P) → Bruno (チームメンバー1人、0 BR34P) → Chang (チームメンバー3人、2 BR34P) → Diana (チームメンバー0人、0 BR34P).</figcaption>
 </figure>
 </p>
-<p>一番右側にいるDianaさんがデポジットもしくはハイドレートをした時はいつでも、Dianaさんの上層にいるプレーヤーが何％かの報酬を得ることができます。
-１回目にDianaさんがデポジットした時、1階層上のプレーヤー（Changさん）が報酬を得ることができます。Changさんはウォレットに１階層下から報酬を得る十分量のBR34Pを保有しており、デポジットがプラスであることからこれに該当します。
-２回目にDianaさんがデポジットもしくはハイドレートをした時、２階層上のプレーヤー（Brunoさん）が報酬を得ることができます。しかしBrunoさんは２階層下からの報酬を得るための十分なBR34Pを保有していないので報酬を得る資格がありません。この場合、報酬はDianaさんの３階層上に移行し、Aliciaさんに移ります。Aliciaさんはウォレットに３階層下から報酬を得る十分量のBR34Pを保有しており、デポジットがプラスなのでDianaさんから報酬を得ることができます。
-３回目にDianaさんがデポジットもしくはハイドレードをした時、報酬はDianaさんの４階層上であるdev walletにいきます。
-Dev walletより上層にはアカウントがないので、次回Dianaさんがデポジットもしくはハイドレードをした場合は循環の最初に戻り、Changさんが報酬を受け取ります。</p>
+<p>一番右側にいるDianaさんがデポジットもしくはハイドレートをした時はいつでも、Dianaさんの上層にいるプレーヤーが何％かの報酬を得ることができます。</p>
+<p>１回目にDianaさんがデポジットした時、1階層上のプレーヤー（Changさん）が報酬を得ることができます。Changさんはウォレットに１階層下から報酬を得る十分量のBR34Pを保有しており、デポジットがプラスであることからこれに該当します。</p>
+<p>２回目にDianaさんがデポジットもしくはハイドレートをした時、２階層上のプレーヤー（Brunoさん）が報酬を得ることができます。しかしBrunoさんは２階層下からの報酬を得るための十分なBR34Pを保有していないので報酬を得る資格がありません。この場合、報酬はDianaさんの３階層上に移行し、Aliciaさんに移ります。Aliciaさんはウォレットに３階層下から報酬を得る十分量のBR34Pを保有しており、デポジットがプラスなのでDianaさんから報酬を得ることができます。</p>
+<p>３回目にDianaさんがデポジットもしくはハイドレードをした時、報酬はDianaさんの４階層上であるdev walletにいきます。</p>
+<p>Dev walletより上層にはアカウントがないので、次回Dianaさんがデポジットもしくはハイドレードをした場合は循環の最初に戻り、Changさんが報酬を受け取ります。</p>
 <hr />
 <doc-anchor-target id="ホエールタックス">
     <h3>

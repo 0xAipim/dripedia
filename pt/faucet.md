@@ -35,8 +35,8 @@ Enviar airdrops pode lhe ajudar a garantir que sua conta tenha um status positiv
 | Transação | Imposto |
 |:---:|:---:|
 | Depósito na Faucet | 10% |
-| Saque da Faucet | 10% |
 | Hidratar a Faucet (redepositar) | 5% |
+| Saque da Faucet | 10% |
 | Enviar airdrop | 10% |
 
 ---

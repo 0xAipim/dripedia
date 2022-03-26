@@ -38,7 +38,6 @@ Desenvolvedor principal da DRIP Network.
 >GitHub: https://github.com/CryptoKira
 
 ---
-
 ### Entrevistas
 
 [Entrevista com The BarterTown Conglomerate](https://www.youtube.com/watch?v=v99svXJ_FVY) (Fev 22, 2022)

@@ -33,11 +33,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/static/droplet.png" rel="icon" />
-    <link href="/resources/css/retype.css?v=2.0.701181799312" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.0.701633472033" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.0.701181799312" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.0.701633472033" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.0" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.0.701181799312" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.0.701633472033" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -186,7 +186,7 @@ Deposita tokens DRIP desde tu billetera al contrato del Faucet. Hay una cantidad
 <p><strong>Hydrate (Hidratar):</strong>
 Re-Deposita tus ganancias disponibles nuevamente al Faucet. Hay un impuesto del 5% por hidratar las ganancias. Hidratar le permite a los jugadores incrementar sus ganancias diarias al incrementar su cantidad total de depósitos en el Faucet. Hidratar frecuentemente genera ganancias exponenciales.</p>
 <p><strong>Claim (Retirar)</strong>
-Withdraws your available DRIP Faucet rewards into your wallet. There is a 10% tax for claiming DRIP Faucet rewards.</p>
+Retira las recompensas disponibles (en tokens DRIP) en el Faucet hacia su billetera. Hay un impuesto del 10 % por reclamar las recompensas del DRIP Faucet.</p>
 <p><strong>Airdrops:</strong>
 Puedes transferir DRIPs directamente a los depósitos del Faucet de otro jugador. Hay un impuesto del 10% por enviar airdrops. Enviar airdrops puede ayudar a asegurarse que tu cuenta tenga un estado de balance positivo, al mismo tiempo que es una gran herramienta para darle valor de vuelta a tu equipo y atraer nuevos miembros.</p>
 <div class="table-wrapper scrollbar overflow-hidden">
@@ -203,12 +203,12 @@ Puedes transferir DRIPs directamente a los depósitos del Faucet de otro jugador
 <td style="text-align: center;">10%</td>
 </tr>
 <tr>
-<td style="text-align: center;">Retiros del Faucet</td>
-<td style="text-align: center;">10%</td>
-</tr>
-<tr>
 <td style="text-align: center;">Hidratación (recompound)</td>
 <td style="text-align: center;">5%</td>
+</tr>
+<tr>
+<td style="text-align: center;">Retiros del Faucet</td>
+<td style="text-align: center;">10%</td>
 </tr>
 <tr>
 <td style="text-align: center;">Enviar Airdrops</td>

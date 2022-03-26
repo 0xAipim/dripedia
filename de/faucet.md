@@ -34,8 +34,8 @@ Das Versenden von Airdrops kann dazu beitragen, dass dein Konto einen positiven 
 | Transaktion | Gebühr |
 |:---:|:---:|
 | Faucet deposit (Einzahlung)| 10% |
-| Faucet withdraw (Beanspruchen) | 10% |
 | Faucet hydrate (Reinvestieren) | 5% |
+| Faucet withdraw (Beanspruchen) | 10% |
 | Airdrop senden | 10% |
 
 ---

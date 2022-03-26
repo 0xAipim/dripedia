@@ -34,8 +34,8 @@ Puedes transferir DRIPs directamente a los depósitos del Faucet de otro jugador
 | Transacción | Impuesto |
 |:---:|:---:|
 | Depositos en Faucet | 10% |
-| Retiros del Faucet | 10% |
 | Hidratación (recompound) | 5% |
+| Retiros del Faucet | 10% |
 | Enviar Airdrops | 10% |
 
 ---
