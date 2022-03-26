@@ -20,6 +20,9 @@ German · @dripinator · 0x428a10825e3529D95dF8C5b841694318Ca95446f
 **:wave: Jonathan Gomez:**
 Spanish · @jonathanagc · 0x1d4271626043A7F186EF0dba5b36296F4a39E068
 
+**:wave: Drip Japan:**
+Japanese · @Drip_Japan · 0xe882096000c2815c6f44df9735b2e0212ce4d57c
+
 ---
 
 ### The next steps for DRIPedia
@@ -30,7 +33,11 @@ Spanish · @jonathanagc · 0x1d4271626043A7F186EF0dba5b36296F4a39E068
 - [x] Add Portuguese translation
 - [x] Add German translation
 - [x] Add Spanish translation
-- [ ] Add Japanese translation
+- [x] Add Japanese translation
+- [ ] Add Mandarin translation
+- [ ] Add Hindi translation
+- [ ] Add French translation
+- [ ] Add Arabic translation
 - [ ] Add translations in other languages
 
 ---

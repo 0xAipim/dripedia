@@ -25,7 +25,7 @@ Deposita tokens DRIP desde tu billetera al contrato del Faucet. Hay una cantidad
 Re-Deposita tus ganancias disponibles nuevamente al Faucet. Hay un impuesto del 5% por hidratar las ganancias. Hidratar le permite a los jugadores incrementar sus ganancias diarias al incrementar su cantidad total de depósitos en el Faucet. Hidratar frecuentemente genera ganancias exponenciales.
 
 **Claim (Retirar)**
-Withdraws your available DRIP Faucet rewards into your wallet. There is a 10% tax for claiming DRIP Faucet rewards.
+Retira las recompensas disponibles (en tokens DRIP) en el Faucet hacia su billetera. Hay un impuesto del 10 % por reclamar las recompensas del DRIP Faucet.
 
 **Airdrops:**
 Puedes transferir DRIPs directamente a los depósitos del Faucet de otro jugador. Hay un impuesto del 10% por enviar airdrops. Enviar airdrops puede ayudar a asegurarse que tu cuenta tenga un estado de balance positivo, al mismo tiempo que es una gran herramienta para darle valor de vuelta a tu equipo y atraer nuevos miembros.

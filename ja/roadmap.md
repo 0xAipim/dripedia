@@ -18,8 +18,7 @@ icon: versions
 流動性プールは7月13日にローンチされ、初日に約40万ドル（約4700万円）相当の流動性がPancake Swapに追加されました。
 
 **DRIP Liberation:**
-[ DRIP Liberation](https://theanimal.farm/dripliberation)　  
-というスマートコントラクトにより、プレーヤーはDRIP取引手数料０％でDRIP-BUSD流動性トークンを購入できます。
+[ DRIP Liberation](https://theanimal.farm/dripliberation) というスマートコントラクトにより、プレーヤーはDRIP取引手数料０％でDRIP-BUSD流動性トークンを購入できます。
 
 **DRIP Garden:**
 [ DRIP Garden](https://theanimal.farm/garden) というのは暗号投資収益ゲームのこと。プレイヤーがDRIP-BUSD流動性トークンを変動レートで「植物」と交換して、その「植物」を植えたら、「種」がで出来上がる。「植物」は植える（複利）又は収穫（DRIP-BUSD流動性トークンと交換）ということができます。変動為替レートは、新しい資本がプロジェクトに参加することを常に魅力的にするように設定されています。変動するレートによって後から参加希望の方にも魅力的になります。
